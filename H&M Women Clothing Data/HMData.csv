@@ -1,0 +1,951 @@
+,Titile,Price,redPrice,yellowPrice,bluePrice,brandName,category,swatchesTotal,sellingAttribute,link
+0,Bouclé Jacket,$49.99 ,,,,H&M,ladies_jacketscoats_jackets,3,New Arrival,https://www2.hm.com/en_us/productpage.1096710009.html
+1,Textured-weave Jacket,$74.99 ,,,,H&M,ladies_blazers,3,New Arrival,https://www2.hm.com/en_us/productpage.1088625007.html
+2,Bouclé Shacket,$34.99 ,,,,H&M,ladies_shirtsblouses_shirts,1,New Arrival,https://www2.hm.com/en_us/productpage.1126993001.html
+3,Dress Pants,$34.99 ,,,,H&M,ladies_trousers_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1089235007.html
+4,Button-front Pants,$24.99 ,,,,H&M,ladies_trousers_highwaisted,2,New Arrival,https://www2.hm.com/en_us/productpage.1133068004.html
+5,Mini Skirt,$29.99 ,,,,H&M,Ladies_skirts_highwaisted,2,New Arrival,https://www2.hm.com/en_us/productpage.1122573004.html
+6,Embroidered Sweater,$34.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1138949001.html
+7,Dress Pants,$34.99 ,,,,H&M,ladies_trousers_wideleg,5,New Arrival,https://www2.hm.com/en_us/productpage.1124621004.html
+8,Cotton Poplin Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,5,New Arrival,https://www2.hm.com/en_us/productpage.1126542002.html
+9,Textured Bucket Hat,$17.99 ,,,,H&M,ladies_accessories_hats,1,New Arrival,https://www2.hm.com/en_us/productpage.1118624001.html
+10,Double-breasted Bouclé Jacket,$59.99 ,,,,H&M,ladies_blazers,1,New Arrival,https://www2.hm.com/en_us/productpage.1121830001.html
+11,Double-breasted Coat,$74.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1115460002.html
+12,90s Straight High Jeans,$29.99 ,,,,H&M,ladies_jeans_straight,3,New Arrival,https://www2.hm.com/en_us/productpage.1066976021.html
+13,Cotton Jersey Top,$17.99 ,,,,H&M,ladies_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1066903009.html
+14,Eyelet Embroidered Blouse,$49.99 ,,,,H&M,ladies_shirtsblouses_blouses,1,New Arrival,https://www2.hm.com/en_us/productpage.1143560001.html
+15,Shacket,$59.99 ,,,,H&M,ladies_jacketscoats_jackets,3,New Arrival,https://www2.hm.com/en_us/productpage.1115960003.html
+16,Sweater,$17.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,5,New Arrival,https://www2.hm.com/en_us/productpage.1106148023.html
+17,Straight Pants,$64.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1142268001.html
+18,Shirt Dress,$29.99 ,,,,H&M,ladies_dresses_longsleevedress,1,New Arrival,https://www2.hm.com/en_us/productpage.1135076001.html
+19,Oversized Tie-detail Shirt,$49.99 ,,,,H&M,ladies_shirtsblouses_shirts,1,New Arrival,https://www2.hm.com/en_us/productpage.1145092001.html
+20,Quilted Jacket,$49.99 ,,,,H&M,ladies_divided_jacketscoats,2,New Arrival,https://www2.hm.com/en_us/productpage.1132967002.html
+21,Puff-sleeved denim shirt dress,$49.99 ,,,,H&M,ladies_dresses_puffsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1130464001.html
+22,Long-sleeved Bodysuit,$14.99 ,,,,H&M,ladies_tops_bodys,4,New Arrival,https://www2.hm.com/en_us/productpage.1123802010.html
+23,Tie-belt Dress,$34.99 ,,,,H&M,ladies_dresses_shortdresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1145644001.html
+24,Wide-leg Jersey Pants,$19.99 ,,,,H&M,ladies_trousers,2,New Arrival,https://www2.hm.com/en_us/productpage.1123648003.html
+25,Tie-detail Crêped Dress,$39.99 ,,,,H&M,ladies_dresses_maxidresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1145278001.html
+26,Twill Shacket,$39.99 ,,,,H&M,ladies_jacketscoats_jackets,1,New Arrival,https://www2.hm.com/en_us/productpage.1130075001.html
+27,Double-breasted Coat,$84.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1122086001.html
+28,Cropped sweatshirt,$24.99 ,,,,H&M,ladies_basics_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1129801004.html
+29,Cotton Poplin Shirt,$29.99 ,,,,H&M,ladies_shirtsblouses_shirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1128740002.html
+30,Oversized Mohair-blend Sweater,$74.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1136707001.html
+31,Pointelle-knit Sweater,$34.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1135095002.html
+32,Dress Pants,$34.99 ,,,,H&M,ladies_trousers_wideleg,5,New Arrival,https://www2.hm.com/en_us/productpage.1124621005.html
+33,Sweatpants,$24.99 ,,,,H&M,ladies_basics_trousersleggings,2,New Arrival,https://www2.hm.com/en_us/productpage.1129802002.html
+34,V-neck cardigan,$34.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,2,New Arrival,https://www2.hm.com/en_us/productpage.1130433001.html
+35,Sweater,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,6,New Arrival,https://www2.hm.com/en_us/productpage.1107948008.html
+36,Cargo Pants,$49.99 ,,,,H&M,ladies_trousers_cargo,1,New Arrival,https://www2.hm.com/en_us/productpage.1098570003.html
+37,90s Baggy Low Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_loose,2,New Arrival,https://www2.hm.com/en_us/productpage.1113296007.html
+38,Tie-detail Wrap Dress,$34.99 ,,,,H&M,ladies_dresses_longsleevedress,2,New Arrival,https://www2.hm.com/en_us/productpage.1148535001.html
+39,Oversized T-shirt,$9.99 ,,,,H&M,ladies_basics_tops_shortsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1128482007.html
+40,Denim Shirt,$39.99 ,,,,H&M,ladies_shirtsblouses_denimshirts,1,New Arrival,https://www2.hm.com/en_us/productpage.1044410004.html
+41,Chunky Sneakers,$49.99 ,,,,H&M,ladies_shoes_sneakers,3,New Arrival,https://www2.hm.com/en_us/productpage.0988436009.html
+42,Slim Regular Ankle Jeans,$34.99 ,,,,H&M,ladies_jeans,6,New Arrival,https://www2.hm.com/en_us/productpage.1075062016.html
+43,H&M+ Motif-front Sweater,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1134909002.html
+44,Embroidered Bomber Jacket,$64.99 ,,,,H&M,ladies_divided_jacketscoats,1,New Arrival,https://www2.hm.com/en_us/productpage.1144393001.html
+45,Double-breasted Trench Coat,$64.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1115204001.html
+46,Oversized rib-knit cardigan,$34.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,2,New Arrival,https://www2.hm.com/en_us/productpage.1158652001.html
+47,High-collar jumper,$49.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1155758003.html
+48,Tie-belt shirt dress,$39.99 ,,,,H&M,ladies_dresses_mididresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1129134001.html
+49,Lyocell-blend Pull-on Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1136647002.html
+50,Single-breasted Coat,$69.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1140504001.html
+51,Ankle-length Pants,$29.99 ,,,,H&M,ladies_trousers_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1011909030.html
+52,Puffer gilet,$34.99 ,,,,H&M,ladies_jacketscoats_gilets,1,New Arrival,https://www2.hm.com/en_us/productpage.1131010001.html
+53,Double-breasted trenchcoat,$74.99 ,,,,H&M,ladies_jacketscoats_coats,1,New Arrival,https://www2.hm.com/en_us/productpage.1115457004.html
+54,Dress Pants,$24.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1107363001.html
+55,Dress Pants,$34.99 ,,,,H&M,ladies_trousers_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1096238007.html
+56,Pleated Skirt,$39.99 ,,,,H&M,Ladies_skirts_highwaisted,1,New Arrival,https://www2.hm.com/en_us/productpage.0998124023.html
+57,V-neck cardigan,$34.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,2,New Arrival,https://www2.hm.com/en_us/productpage.1130433002.html
+58,Puffer gilet,$39.99 ,,,,H&M,ladies_jacketscoats_gilets,2,New Arrival,https://www2.hm.com/en_us/productpage.1128508001.html
+59,Oversized rib-knit cardigan,$34.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,2,New Arrival,https://www2.hm.com/en_us/productpage.1158652002.html
+60,High-collar jumper,$49.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1155758001.html
+61,Textured-weave Jacket,$84.99 ,,,,H&M,ladies_jacketscoats_jackets,1,New Arrival,https://www2.hm.com/en_us/productpage.1145920002.html
+62,Mesh-detail Slingbacks,$30.99 ,,,,H&M,ladies_shoes_ballerinas_flats,1,New Arrival,https://www2.hm.com/en_us/productpage.1137425001.html
+63,Cotton T-shirt,$5.99 ,,,,H&M,ladies_basics_tops_shortsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.0963662058.html
+64,Double-breasted Coat,$74.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1115460001.html
+65,90s Baggy High Jeans,$35.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1126815001.html
+66,Single-breasted Coat,$69.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1140504002.html
+67,Wide-leg Joggers,$24.99 ,,,,H&M,ladies_nightwear_loungewear,3,New Arrival,https://www2.hm.com/en_us/productpage.1005176011.html
+68,Oversized Printed Sweatshirt,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1127637003.html
+69,Printed Sweatshirt,$29.99 ,,,,H&M,ladies_licence,2,New Arrival,https://www2.hm.com/en_us/productpage.1096931007.html
+70,Hoodie,$19.99 ,,,,H&M,ladies_basics_tops_longsleeve,8,New Arrival,https://www2.hm.com/en_us/productpage.0456163139.html
+71,Cotton Poplin Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,5,New Arrival,https://www2.hm.com/en_us/productpage.1126542003.html
+72,Tie-belt shirt dress,$39.99 ,,,,H&M,ladies_dresses_mididresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1129134002.html
+73,Wide Ultra High Jeans,$29.99 ,,,,H&M,ladies_jeans_ripped,2,New Arrival,https://www2.hm.com/en_us/productpage.1067430018.html
+74,Ruffle-trimmed Blouse,$24.99 ,,,,H&M,ladies_shirtsblouses_blouses,3,New Arrival,https://www2.hm.com/en_us/productpage.1126854004.html
+75,Canvas Cargo Pants,$24.99 ,,,,H&M,ladies_trousers_cargo,4,New Arrival,https://www2.hm.com/en_us/productpage.1083344020.html
+76,Pleated Tie-belt Dress,$64.99 ,,,,H&M,ladies_dresses_longsleevedress,3,New Arrival,https://www2.hm.com/en_us/productpage.1123132003.html
+77,Puff-sleeved Embroidered Blouse,$34.99 ,,,,H&M,ladies_shirtsblouses_blouses,1,New Arrival,https://www2.hm.com/en_us/productpage.1153870001.html
+78,Wide-leg Twill Pants,$19.99 ,,,,H&M,ladies_trousers_highwaisted,4,New Arrival,https://www2.hm.com/en_us/productpage.1107360005.html
+79,Gathered-sleeve Jacket,$49.99 ,,,,H&M,ladies_blazers,3,New Arrival,https://www2.hm.com/en_us/productpage.1036121012.html
+80,Wrap Dress,$34.99 ,,,,H&M,Ladies_dresses_wrap,3,New Arrival,https://www2.hm.com/en_us/productpage.1138612005.html
+81,Dress Pants,$34.99 ,,,,H&M,ladies_trousers_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1089235002.html
+82,Biker Jacket,$64.99 ,,,,H&M,ladies_jacketscoats_biker,1,New Arrival,https://www2.hm.com/en_us/productpage.1072847001.html
+83,Dress Pants,$24.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1107363002.html
+84,Sleeveless Mini Dress,$49.99 ,,,,H&M,ladies_dresses_shortdresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1138608001.html
+85,Ribbed Mock Turtleneck Sweater,$34.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,3,New Arrival,https://www2.hm.com/en_us/productpage.1122247004.html
+86,Wide High Jeans,$34.99 ,,,,H&M,ladies_jeans,4,New Arrival,https://www2.hm.com/en_us/productpage.1045459012.html
+87,High Waist Joggers,$24.99 ,,,,H&M,ladies_basics_trousersleggings,9,New Arrival,https://www2.hm.com/en_us/productpage.0975845037.html
+88,Crêpe dress,$39.99 ,,,,H&M,Ladies_dresses_wrap,1,New Arrival,https://www2.hm.com/en_us/productpage.1145517001.html
+89,Satin Pajama Shirt and Pants,$34.99 ,,,,H&M,ladies_night,3,New Arrival,https://www2.hm.com/en_us/productpage.1135056005.html
+90,Parachute Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1112962004.html
+91,Wide-leg Twill Pants,$19.99 ,,,,H&M,ladies_trousers_highwaisted,4,New Arrival,https://www2.hm.com/en_us/productpage.1107360004.html
+92,Boxy Drawstring Hoodie,$29.99 ,,,,H&M,ladies_nightwear_loungewear,2,New Arrival,https://www2.hm.com/en_us/productpage.1005174004.html
+93,Fringe-trimmed Dress,$64.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1135096001.html
+94,Loafers,$34.99 ,,,,H&M,Ladies_shoes_loafers,3,New Arrival,https://www2.hm.com/en_us/productpage.1115290001.html
+95,Slacks,$19.99 ,,,,H&M,ladies_trousers_chinosslacks,4,New Arrival,https://www2.hm.com/en_us/productpage.0751471100.html
+96,Wrap Dress,$29.99 ,,,,H&M,ladies_dresses_longsleevedress,4,New Arrival,https://www2.hm.com/en_us/productpage.1145264001.html
+97,Patterned Pajamas,$34.99 ,,,,H&M,ladies_nightwear_pyjamas,1,New Arrival,https://www2.hm.com/en_us/productpage.1022377007.html
+98,90s Baggy High Jeans,$35.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1126815004.html
+99,Straight Cargo Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1115302003.html
+100,Crew-neck Sweatshirt,$24.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,6,New Arrival,https://www2.hm.com/en_us/productpage.1091010027.html
+101,Mom Ultra High Ankle Jeans,$34.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1128915006.html
+102,Embroidered dress,$64.99 ,,,,H&M,ladies_dresses_shortdresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1145281001.html
+103,Ankle-length Pants,$29.99 ,,,,H&M,ladies_trousers_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1011909028.html
+104,Boxy Sweater,$19.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,3,New Arrival,https://www2.hm.com/en_us/productpage.1137692001.html
+105,Hoodie,$19.99 ,,,,H&M,ladies_basics_tops_longsleeve,8,New Arrival,https://www2.hm.com/en_us/productpage.0456163145.html
+106,Ruffle-trimmed Blouse,$24.99 ,,,,H&M,ladies_shirtsblouses_blouses,3,New Arrival,https://www2.hm.com/en_us/productpage.1126854002.html
+107,Wool-blend Coat,$219.00 ,,,,H&M,ladies_premium_selection_jacketscoats,1,New Arrival,https://www2.hm.com/en_us/productpage.1091965003.html
+108,Wide Ultra High Jeans,$29.99 ,,,,H&M,ladies_jeans_ripped,2,New Arrival,https://www2.hm.com/en_us/productpage.1067430019.html
+109,Ribbed Jersey Bodysuit,$14.99 ,,,,H&M,ladies_tops_bodys,2,New Arrival,https://www2.hm.com/en_us/productpage.1137323003.html
+110,Sleeveless Poplin Beach Dress,$34.99 ,,,,H&M,ladies_dresses_maxidresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1116693001.html
+111,Corduroy Cargo Pants,$34.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1108705002.html
+112,Bouclé Jacket,$74.99 ,,,,H&M,ladies_blazers,1,New Arrival,https://www2.hm.com/en_us/productpage.0966292007.html
+113,Rib-knit Cardigan,$19.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,6,New Arrival,https://www2.hm.com/en_us/productpage.1130762003.html
+114,90s Baggy High Cargo Jeans,$34.99 ,,,,H&M,ladies_divided_jeans_loose,3,New Arrival,https://www2.hm.com/en_us/productpage.1121709002.html
+115,Cotton Poplin Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,5,New Arrival,https://www2.hm.com/en_us/productpage.1126542001.html
+116,Silk-blend Rib-knit Dress,$129.00 ,,,,H&M,ladies_dresses_longsleevedress,1,New Arrival,https://www2.hm.com/en_us/productpage.1133911001.html
+117,Lyocell-blend Pull-on Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1136647003.html
+118,Square-neck Jersey Dress,$29.99 ,,,,H&M,ladies_dresses_mididresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1154836001.html
+119,Single-breasted Blazer,$59.99 ,,,,H&M,ladies_blazers,1,New Arrival,https://www2.hm.com/en_us/productpage.1138560002.html
+120,Rib-knit Sweater,$24.99 ,,,,H&M,ladies_knitwear,5,New Arrival,https://www2.hm.com/en_us/productpage.1096768008.html
+121,Leather Loafers,$84.99 ,,,,H&M,ladies_premium_selection_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1132467002.html
+122,Lacing-detail rib-knit top,$29.99 ,,,,H&M,ladies_tops_longsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1139069002.html
+123,High-collar jumper,$49.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1155758002.html
+124,Single-breasted Jacket,$49.99 ,,,,H&M,ladies_blazers,4,New Arrival,https://www2.hm.com/en_us/productpage.1127221007.html
+125,Pointelle-knit Cotton Sweater,$39.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1139759001.html
+126,T-shirt with Motif,$14.99 ,,,,H&M,ladies_tops_printed_tshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.0762470348.html
+127,Double-breasted Trench Coat,$84.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1128402002.html
+128,Beaded-collar Sweater,$34.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1041179002.html
+129,Double-breasted Coat,$84.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1122086003.html
+130,Puffer Vest,$24.99 ,,,,H&M,ladies_jacketscoats_gilets,4,New Arrival,https://www2.hm.com/en_us/productpage.1083326010.html
+131,Wrap-front Jacket Dress,$49.99 ,,,,H&M,ladies_dresses_longsleevedress,2,New Arrival,https://www2.hm.com/en_us/productpage.1134304002.html
+132,Rib-knit Top,$59.99 ,,,,H&M,ladies_tops_longsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1136734001.html
+133,Crinkled Shirt,$34.99 ,,,,H&M,ladies_nightwear_loungewear,2,New Arrival,https://www2.hm.com/en_us/productpage.1140590001.html
+134,Crochet-look A-line Dress,$79.99 ,,,,H&M,ladies_dresses_aline,1,New Arrival,https://www2.hm.com/en_us/productpage.1108102003.html
+135,Flared Low Jeans,$34.99 ,,,,H&M,ladies_jeans_flare,5,New Arrival,https://www2.hm.com/en_us/productpage.1095905006.html
+136,Quilted jacket,$64.99 ,,,,H&M,ladies_jacketscoats_jackets,1,New Arrival,https://www2.hm.com/en_us/productpage.1120729002.html
+137,Hole-knit Sweater,$34.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1158605001.html
+138,Twill Cargo Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1107358001.html
+139,Silk-blend Turtleneck Dress,$119.00 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1133912001.html
+140,Oversized Cashmere-blend Sweater,$199.00 ,,,,H&M,ladies_premium_selection,1,New Arrival,https://www2.hm.com/en_us/productpage.1133907002.html
+141,Sweater,$17.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,5,New Arrival,https://www2.hm.com/en_us/productpage.1106148022.html
+142,Textured blazer,$64.99 ,,,,H&M,ladies_blazers,1,New Arrival,https://www2.hm.com/en_us/productpage.1155179001.html
+143,Oversized Sweatshirt,$14.99 ,,,,H&M,ladies_basics_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.1110764007.html
+144,Jute-blend Tote Bag,$34.99 ,,,,H&M,ladies_accessories_bags,1,New Arrival,https://www2.hm.com/en_us/productpage.1118692002.html
+145,Mom Comfort Ultra High Jeans,$34.99 ,,,,H&M,ladies_jeans_baggy,4,New Arrival,https://www2.hm.com/en_us/productpage.1030453017.html
+146,90s Baggy High Jeans,$35.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1126815002.html
+147,Cotton Shirt,$25.99 ,,,,H&M,ladies_shirtsblouses_shirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1090709007.html
+148,Jacket Dress,$74.99 ,,,,H&M,ladies_dresses_shortdresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1144261001.html
+149,Crinkled Pants,$29.99 ,,,,H&M,ladies_nightwear_loungewear,2,New Arrival,https://www2.hm.com/en_us/productpage.1140592001.html
+150,Double-breasted Trench Coat,$84.99 ,,,,H&M,ladies_jacketscoats_coats,2,New Arrival,https://www2.hm.com/en_us/productpage.1128402003.html
+151,Puffer Vest,$24.99 ,,,,H&M,ladies_jacketscoats_gilets,4,New Arrival,https://www2.hm.com/en_us/productpage.1083326012.html
+152,Boxy Sweater,$19.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,3,New Arrival,https://www2.hm.com/en_us/productpage.1137692002.html
+153,Knit Cashmere Top,$135.00 ,,,,H&M,ladies_tops_shortsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1133910001.html
+154,Wrap Dress,$34.99 ,,,,H&M,Ladies_dresses_wrap,3,New Arrival,https://www2.hm.com/en_us/productpage.1138612003.html
+155,Voluminous Balloon-sleeved Blouse,$29.99 ,,,,H&M,ladies_shirtsblouses_blouses,1,New Arrival,https://www2.hm.com/en_us/productpage.1139529002.html
+156,Broderie anglaise flounce-trimmed blouse,$74.99 ,,,,H&M,ladies_shirtsblouses_blouses,0,New Arrival,https://www2.hm.com/en_us/productpage.1145094001.html
+157,Rib-knit Cardigan,$19.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,6,New Arrival,https://www2.hm.com/en_us/productpage.1130762006.html
+158,Balloon-sleeved Wrap Dress,$39.99 ,,,,H&M,Ladies_dresses_wrap,1,New Arrival,https://www2.hm.com/en_us/productpage.1108104001.html
+159,Rib-knit Cardigan,$19.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,6,New Arrival,https://www2.hm.com/en_us/productpage.1130762007.html
+160,Sweater,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,6,New Arrival,https://www2.hm.com/en_us/productpage.1107948003.html
+161,Rib-knit Sweater,$27.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1130760002.html
+162,Square-neck Jersey Dress,$29.99 ,,,,H&M,ladies_dresses_mididresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1154836002.html
+163,Cotton Jersey Top,$17.99 ,,,,H&M,ladies_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1066903011.html
+164,Ribbed Tank Top,$10.99 ,,,,H&M,ladies_tops_vests,4,New Arrival,https://www2.hm.com/en_us/productpage.1099913007.html
+165,Parachute Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1112962008.html
+166,Sweater,$17.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,5,New Arrival,https://www2.hm.com/en_us/productpage.1106148019.html
+167,Satin Pajama Shirt and Pants,$34.99 ,,,,H&M,ladies_night,3,New Arrival,https://www2.hm.com/en_us/productpage.1135056004.html
+168,Wrap Dress,$29.99 ,,,,H&M,ladies_dresses_longsleevedress,4,New Arrival,https://www2.hm.com/en_us/productpage.1145264004.html
+169,Stand-up Collar Satin Blouse,$17.99 ,,,,H&M,ladies_shirtsblouses_blouses,2,New Arrival,https://www2.hm.com/en_us/productpage.1088810007.html
+170,Single-breasted Jacket,$49.99 ,,,,H&M,ladies_blazers,5,New Arrival,https://www2.hm.com/en_us/productpage.0935727045.html
+171,Cashmere-blend Mock Turtleneck Sweater,$199.00 ,,,,H&M,ladies_premium_selection,1,New Arrival,https://www2.hm.com/en_us/productpage.1135333001.html
+172,Mini Skirt,$24.99 ,,,,H&M,ladies_skirts_mini,1,New Arrival,https://www2.hm.com/en_us/productpage.1088555017.html
+173,Oversized Quilted Jacket,$49.99 ,,,,H&M,ladies_jacketscoats_jackets,4,New Arrival,https://www2.hm.com/en_us/productpage.1067297005.html
+174,Embroidered Ribbed Top,$19.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1107943002.html
+175,Patterned Shirt,$74.99 ,,,,H&M,ladies_shirtsblouses_shirts,1,New Arrival,https://www2.hm.com/en_us/productpage.1142189001.html
+176,Single-breasted blazer,$49.99 ,,,,H&M,ladies_blazers,1,New Arrival,https://www2.hm.com/en_us/productpage.1138523001.html
+177,Tie-detail dress,$34.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1143092001.html
+178,Flared High Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_wide,4,New Arrival,https://www2.hm.com/en_us/productpage.1109636001.html
+179,Crew-neck Sweatshirt,$24.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,6,New Arrival,https://www2.hm.com/en_us/productpage.1091010023.html
+180,Cotton-blend Sweatpants,$17.99 ,,,,H&M,ladies_basics_trousersleggings,6,New Arrival,https://www2.hm.com/en_us/productpage.0932722051.html
+181,Tasseled Suede Loafers,$74.99 ,,,,H&M,ladies_premium_selection_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1132416001.html
+182,High Waist Joggers,$24.99 ,,,,H&M,ladies_basics_trousersleggings,9,New Arrival,https://www2.hm.com/en_us/productpage.0975845041.html
+183,Vintage Straight High Jeans,$29.99 ,,,,H&M,ladies_jeans_straight,6,New Arrival,https://www2.hm.com/en_us/productpage.1026091048.html
+184,Corduroy Cargo Pants,$34.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1108705001.html
+185,5-pack Camisole Tops,$29.99 ,,,,H&M,ladies_basics_tops_vests,1,New Arrival,https://www2.hm.com/en_us/productpage.1080623007.html
+186,Gathered-sleeve Jacket,$49.99 ,,,,H&M,ladies_blazers,3,New Arrival,https://www2.hm.com/en_us/productpage.1036121010.html
+187,Dress Pants,$34.99 ,,,,H&M,ladies_trousers_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1089235005.html
+188,Single-breasted twill blazer,$74.99 ,,,,H&M,ladies_jacketscoats_jackets,1,New Arrival,https://www2.hm.com/en_us/productpage.1136545001.html
+189,Mini Skirt,$29.99 ,,,,H&M,Ladies_skirts_highwaisted,2,New Arrival,https://www2.hm.com/en_us/productpage.1122573005.html
+190,Wide High Jeans,$34.99 ,,,,H&M,ladies_jeans,4,New Arrival,https://www2.hm.com/en_us/productpage.1045459014.html
+191,Knit Dress,$34.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1049670008.html
+192,Printed Sweatshirt,$29.99 ,,,,H&M,ladies_licence,2,New Arrival,https://www2.hm.com/en_us/productpage.1096931006.html
+193,Dress Pants,$34.99 ,,,,H&M,ladies_trousers,4,New Arrival,https://www2.hm.com/en_us/productpage.1138565002.html
+194,Sweater,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,6,New Arrival,https://www2.hm.com/en_us/productpage.1107948001.html
+195,Twill Cargo Pants,$25.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1129186001.html
+196,Suit Vest,$19.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1128227001.html
+197,Single-breasted Jacket,$39.99 ,,,,H&M,ladies_blazers,2,New Arrival,https://www2.hm.com/en_us/productpage.1128669007.html
+198,Oversized Cashmere Sweater,$219.00 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.0951963009.html
+199,Harness,$19.99 ,,,,H&M,ladies_accessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1093025002.html
+200,Dress Pants,$24.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1107363003.html
+201,Satin Pajama Shirt and Pants,$34.99 ,,,,H&M,ladies_night,3,New Arrival,https://www2.hm.com/en_us/productpage.1135056003.html
+202,Crew-neck Sweatshirt,$24.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,6,New Arrival,https://www2.hm.com/en_us/productpage.1091010017.html
+203,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1129527002.html
+204,Rib-knit dress,$34.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1129951005.html
+205,Oversized Poplin Shirt,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1134735007.html
+206,Rib-knit Sweater,$27.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1130760003.html
+207,V-neck Blouse,$24.99 ,,,,H&M,ladies_shirtsblouses_blouses,15,New Arrival,https://www2.hm.com/en_us/productpage.0939703063.html
+208,H&M+ Oversized Printed Sweatshirt,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1137340002.html
+209,Oversized Printed Sweatshirt,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1127637002.html
+210,Balloon-sleeved Wrap Dress,$24.99 ,,,,H&M,Ladies_dresses_wrap,3,New Arrival,https://www2.hm.com/en_us/productpage.1155349003.html
+211,Dress Pants,$34.99 ,,,,H&M,ladies_trousers_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1096238009.html
+212,Viscose Dress,$74.99 ,,,,H&M,ladies_dresses_maxidresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1116118002.html
+213,Wide-leg Patterned Pants,$64.99 ,,,,H&M,ladies_trousers_wideleg,1,New Arrival,https://www2.hm.com/en_us/productpage.1129038001.html
+214,Collared Cable-knit Sweater,$29.99 ,,,,H&M,ladies_knitwear,5,New Arrival,https://www2.hm.com/en_us/productpage.1111775002.html
+215,Oversized Gathered-sleeve Shirt,$59.99 ,,,,H&M,ladies_shirtsblouses_shirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1137414002.html
+216,Crew-neck Sweatshirt,$24.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,6,New Arrival,https://www2.hm.com/en_us/productpage.1091010015.html
+217,Chunky Loafers,$39.99 ,,,,H&M,ladies_shoes,1,New Arrival,https://www2.hm.com/en_us/productpage.1082477004.html
+218,Ruffle-trimmed Blouse,$24.99 ,,,,H&M,ladies_shirtsblouses_blouses,3,New Arrival,https://www2.hm.com/en_us/productpage.1126854001.html
+219,Flared High Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_wide,4,New Arrival,https://www2.hm.com/en_us/productpage.1109636006.html
+220,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_tops_printed_tshirts,5,New Arrival,https://www2.hm.com/en_us/productpage.0762558269.html
+221,Hoodie,$19.99 ,,,,H&M,ladies_basics_tops_longsleeve,8,New Arrival,https://www2.hm.com/en_us/productpage.0456163143.html
+222,Ribbed Tank Top,$10.99 ,,,,H&M,ladies_tops_vests,4,New Arrival,https://www2.hm.com/en_us/productpage.1099913005.html
+223,Short Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1120565004.html
+224,Dress Pants,$34.99 ,,,,H&M,ladies_trousers,4,New Arrival,https://www2.hm.com/en_us/productpage.1138565001.html
+225,Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_basics_tops_longsleeve,5,New Arrival,https://www2.hm.com/en_us/productpage.1139538003.html
+226,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1129527001.html
+227,Skinny High Jeans,$29.99 ,,,,H&M,ladies_jeans_skinny,3,New Arrival,https://www2.hm.com/en_us/productpage.1082961005.html
+228,Chain-detail Loafers,$29.99 ,,,,H&M,Ladies_shoes_loafers,1,New Arrival,https://www2.hm.com/en_us/productpage.1064598003.html
+229,Balloon-sleeved Wrap Dress,$24.99 ,,,,H&M,Ladies_dresses_wrap,3,New Arrival,https://www2.hm.com/en_us/productpage.1155349001.html
+230,Knee-high Heeled Boots,$74.99 ,,,,H&M,ladies_shoes_boots,2,New Arrival,https://www2.hm.com/en_us/productpage.1090450004.html
+231,Oversized Mohair-blend Cardigan,$74.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,2,New Arrival,https://www2.hm.com/en_us/productpage.1145260002.html
+232,Pleated blouse,$35.99 ,,,,H&M,ladies_shirtsblouses_blouses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139295002.html
+233,Gathered Bodycon Dress,$24.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1154696005.html
+234,Sneakers,$34.99 ,,,,H&M,ladies_shoes_sneakers,3,New Arrival,https://www2.hm.com/en_us/productpage.0949985007.html
+235,Straight High Jeans,$64.99 ,,,,H&M,ladies_divided_jeans_straight,1,New Arrival,https://www2.hm.com/en_us/productpage.1147233001.html
+236,Knee-high Heeled Boots,$79.99 ,,,,H&M,ladies_shoes,1,New Arrival,https://www2.hm.com/en_us/productpage.1153812001.html
+237,Tasseled Sandals,$29.99 ,,,,H&M,ladies_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148729001.html
+238,Oversized hole-knit jumper,$64.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1136736001.html
+239,Shaping Swimsuit,$39.99 ,,,,H&M,ladies_swimwear_swimsuits,1,New Arrival,https://www2.hm.com/en_us/productpage.1032287002.html
+240,Leather Ballet Flats,$64.99 ,,,,H&M,ladies_premium_selection_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1125795002.html
+241,Patterned Mesh Skirt,$24.99 ,,,,H&M,ladies_skirts_midiskirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1134917002.html
+242,Cotton-blend Sweatpants,$17.99 ,,,,H&M,ladies_basics_trousersleggings,6,New Arrival,https://www2.hm.com/en_us/productpage.0932722055.html
+243,Tie-belt Jacket Dress,$64.99 ,,,,H&M,ladies_dresses_longsleevedress,2,New Arrival,https://www2.hm.com/en_us/productpage.1127697001.html
+244,Long Printed T-shirt,$24.99 ,,,,H&M,ladies_tops_printed_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1002471032.html
+245,Double-breasted Trench Coat,$119.00 ,,,,H&M,ladies_jacketscoats_trench,1,New Arrival,https://www2.hm.com/en_us/productpage.1136542001.html
+246,Jacquard-weave Shopper,$34.99 ,,,,H&M,ladies_accessories_bags,1,New Arrival,https://www2.hm.com/en_us/productpage.1118696003.html
+247,Short Jersey Top,$9.99 ,,,,H&M,ladies_basics_tops_longsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.0994083011.html
+248,Cotton Poplin Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,5,New Arrival,https://www2.hm.com/en_us/productpage.1126542006.html
+249,Double-breasted Coat,$74.99 ,,,,H&M,ladies_jacketscoats_coats,3,New Arrival,https://www2.hm.com/en_us/productpage.1115574001.html
+250,Oversized Sweatshirt with Motif,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1121853002.html
+251,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1129527012.html
+252,Off-the-shoulder Rib-knit Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1091729004.html
+253,Ballet pumps,$24.99 ,,,,H&M,ladies_shoes_ballerinas_flats,1,New Arrival,https://www2.hm.com/en_us/productpage.1130811001.html
+254,Satin Blouse,$35.99 ,,,,H&M,ladies_shirtsblouses_blouses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139298001.html
+255,Off-the-shoulder Rib-knit Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.1091729002.html
+256,Shacket,$59.99 ,,,,H&M,ladies_jacketscoats_jackets,3,New Arrival,https://www2.hm.com/en_us/productpage.1115960002.html
+257,Rib-knit Sweater,$24.99 ,,,,H&M,ladies_knitwear,5,New Arrival,https://www2.hm.com/en_us/productpage.1096768009.html
+258,Sweatshirt,$12.99 ,,,,H&M,ladies_basics_tops_longsleeve,6,New Arrival,https://www2.hm.com/en_us/productpage.0994007025.html
+259,Oversized Sweatshirt,$34.99 ,,,,H&M,ladies_licence,1,New Arrival,https://www2.hm.com/en_us/productpage.1092132013.html
+260,Twill Cargo Pants,$25.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1129186002.html
+261,90s Baggy High Cargo Jeans,$34.99 ,,,,H&M,ladies_divided_jeans_loose,3,New Arrival,https://www2.hm.com/en_us/productpage.1121709004.html
+262,Sweatshirt,$17.99 ,,,,H&M,ladies_basics_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.0889828042.html
+263,Satin Blouse,$35.99 ,,,,H&M,ladies_shirtsblouses_blouses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139298002.html
+264,Cotton Jersey Pajamas,$17.99 ,,,,H&M,ladies_nightwear_pyjamas,1,New Arrival,https://www2.hm.com/en_us/productpage.0996832012.html
+265,Oversized Sweatshirt,$14.99 ,,,,H&M,ladies_basics_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.1110764005.html
+266,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_tops_printed_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1136437010.html
+267,Straight Cargo Pants,$34.99 ,,,,H&M,ladies_trousers_cargo,3,New Arrival,https://www2.hm.com/en_us/productpage.1127773003.html
+268,Printed Sweatshirt,$34.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1100429011.html
+269,Tie-strap dress,$24.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1139563001.html
+270,Oversized Sweatshirt,$34.99 ,,,,H&M,ladies_licence,1,New Arrival,https://www2.hm.com/en_us/productpage.1097296002.html
+271,Rib-knit Dress with Collar,$34.99 ,,,,H&M,ladies_dresses_shortdresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1139013001.html
+272,High Waist Denim Shorts,$29.99 ,,,,H&M,Ladies_shorts_highwaisted,1,New Arrival,https://www2.hm.com/en_us/productpage.1144208003.html
+273,Mom Loose Fit Ultra High Jeans,$29.99 ,,,,H&M,ladies_jeans_baggy,4,New Arrival,https://www2.hm.com/en_us/productpage.1041089015.html
+274,Padded-cup Swimsuit,$24.99 ,,,,H&M,ladies_swimwear_swimsuits,3,New Arrival,https://www2.hm.com/en_us/productpage.1113772001.html
+275,Ribbed Tank Top,$10.99 ,,,,H&M,ladies_tops_vests,4,New Arrival,https://www2.hm.com/en_us/productpage.1099913006.html
+276,Ribbed Top,$17.99 ,,,,H&M,ladies_tops_longsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1117220004.html
+277,Broderie anglaise dress,$64.99 ,,,,H&M,ladies_dresses_longsleevedress,1,New Arrival,https://www2.hm.com/en_us/productpage.1145060001.html
+278,High Waist Joggers,$24.99 ,,,,H&M,ladies_basics_trousersleggings,9,New Arrival,https://www2.hm.com/en_us/productpage.0975845040.html
+279,Sweatshirt,$17.99 ,,,,H&M,ladies_basics_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.0889828051.html
+280,Hooded Jacket,$19.99 ,,,,H&M,ladies_basics_tops_longsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.0984902035.html
+281,Hole-knit Cardigan,$25.99 ,,,,H&M,ladies_knitwear,3,New Arrival,https://www2.hm.com/en_us/productpage.1120575002.html
+282,Flared High Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_wide,4,New Arrival,https://www2.hm.com/en_us/productpage.1109636005.html
+283,Balloon-sleeved Jersey Top,$34.99 ,,,,H&M,ladies_tops_longsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1153931002.html
+284,Heeled Boots,$49.99 ,,,,H&M,ladies_shoes_ankle_boots,1,New Arrival,https://www2.hm.com/en_us/productpage.1117373002.html
+285,Platform Mules,$39.99 ,,,,H&M,Ladies_shoes_slipon,1,New Arrival,https://www2.hm.com/en_us/productpage.1115071001.html
+286,Flared High Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_wide,4,New Arrival,https://www2.hm.com/en_us/productpage.1109636003.html
+287,T-shirt with Motif,$14.99 ,,,,H&M,ladies_tops_printed_tshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.0762470347.html
+288,Puff-sleeved Smocked Dress,$39.99 ,,,,H&M,ladies_dresses_shortdresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1145647001.html
+289,Button-detail Ribbed Skirt,$29.99 ,,,,H&M,Ladies_skirts_highwaisted,2,New Arrival,https://www2.hm.com/en_us/productpage.1146228002.html
+290,Wrap Dress,$34.99 ,,,,H&M,Ladies_dresses_wrap,3,New Arrival,https://www2.hm.com/en_us/productpage.1138612002.html
+291,Collared Cable-knit Sweater,$29.99 ,,,,H&M,ladies_knitwear,5,New Arrival,https://www2.hm.com/en_us/productpage.1111775001.html
+292,Flared Leggings,$14.99 ,,,,H&M,ladies_divided_basic,2,New Arrival,https://www2.hm.com/en_us/productpage.1137317001.html
+293,Tasseled Suede Loafers,$74.99 ,,,,H&M,ladies_premium_selection_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1132416002.html
+294,V-neck Blouse,$24.99 ,,,,H&M,ladies_shirtsblouses_blouses,15,New Arrival,https://www2.hm.com/en_us/productpage.0939703064.html
+295,Skinny High Jeans,$24.99 ,,,,H&M,ladies_divided_jeans_skinny,4,New Arrival,https://www2.hm.com/en_us/productpage.1124259003.html
+296,Dress Pants,$24.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1107363010.html
+297,Rib-knit Cut-out Top,$24.99 ,,,,H&M,ladies_tops_longsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1135086001.html
+298,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_tops_printed_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1136437001.html
+299,Button-detail Ribbed Skirt,$29.99 ,,,,H&M,Ladies_skirts_highwaisted,2,New Arrival,https://www2.hm.com/en_us/productpage.1146228001.html
+300,H&M+ V-neck Cardigan,$34.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,1,New Arrival,https://www2.hm.com/en_us/productpage.1142803001.html
+301,Patterned Balloon-sleeved Dress,$59.99 ,,,,H&M,ladies_dresses_longsleevedress,2,New Arrival,https://www2.hm.com/en_us/productpage.1121324002.html
+302,Tie-belt Beach Kaftan,$29.99 ,,,,H&M,ladies_dresses_kaftan,1,New Arrival,https://www2.hm.com/en_us/productpage.1044457004.html
+303,Straight-leg Crocheted-look Pants,$59.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1089097002.html
+304,Hole-knit Cardigan,$25.99 ,,,,H&M,ladies_knitwear,3,New Arrival,https://www2.hm.com/en_us/productpage.1120575003.html
+305,Hooded Terry Bathrobe,$99.00 ,,,,H&M,ladies_nightwear_dressing_gowns,2,New Arrival,https://www2.hm.com/en_us/productpage.1147245002.html
+306,Fine-knit Cashmere Sweater,$129.00 ,,,,H&M,ladies_cardigansjumpers_jumpers,4,New Arrival,https://www2.hm.com/en_us/productpage.0951932024.html
+307,Oversized T-shirt,$9.99 ,,,,H&M,ladies_basics_tops_shortsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1137208001.html
+308,Sweatshirt,$19.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1011828052.html
+309,Oversized Sweatshirt,$14.99 ,,,,H&M,ladies_basics_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.1110764006.html
+310,Patterned Viscose Shirt,$64.99 ,,,,H&M,ladies_shirtsblouses_shirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1125993005.html
+311,Wrap Dress,$29.99 ,,,,H&M,ladies_dresses_longsleevedress,4,New Arrival,https://www2.hm.com/en_us/productpage.1145264002.html
+312,Tie-detail Wrap Dress,$34.99 ,,,,H&M,ladies_dresses_longsleevedress,2,New Arrival,https://www2.hm.com/en_us/productpage.1148535002.html
+313,Flared Leggings,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1115173001.html
+314,Single-breasted Jacket,$49.99 ,,,,H&M,ladies_blazers,4,New Arrival,https://www2.hm.com/en_us/productpage.1127221015.html
+315,H&M+ Printed Sweatshirt,$29.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1144075001.html
+316,Printed Sweatshirt,$34.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1100429010.html
+317,Sweatshirt,$17.99 ,,,,H&M,ladies_basics_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.0889828048.html
+318,Lyocell-blend Pull-on Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1136647001.html
+319,2-pack Jersey Tops,$19.99 ,,,,H&M,ladies_basics_tops_longsleeve,6,New Arrival,https://www2.hm.com/en_us/productpage.0824995028.html
+320,Hoodie,$29.99 ,,,,H&M,ladies_hoodiesswetshirts_hoodies,2,New Arrival,https://www2.hm.com/en_us/productpage.1097580009.html
+321,Viscose-blend Crop Top,$24.99 ,,,,H&M,ladies_nightwear_loungewear,1,New Arrival,https://www2.hm.com/en_us/productpage.1149901001.html
+322,Pajama Camisole Top and Shorts,$24.99 ,,,,H&M,ladies_nightwear_pyjamas,7,New Arrival,https://www2.hm.com/en_us/productpage.0954232015.html
+323,Slingbacks,$29.99 ,,,,H&M,ladies_shoes_sandals_espandrillos,3,New Arrival,https://www2.hm.com/en_us/productpage.1078610006.html
+324,Padded Bandeau Bikini Top,$24.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,2,New Arrival,https://www2.hm.com/en_us/productpage.1122177001.html
+325,H&M+ Knit Dress,$34.99 ,,,,H&M,ladies_dresses_mididresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1052163007.html
+326,Flared Pants,$34.99 ,,,,H&M,ladies_trousers_flare,6,New Arrival,https://www2.hm.com/en_us/productpage.1099204012.html
+327,Ribbed Jersey Bodysuit,$14.99 ,,,,H&M,ladies_tops_bodys,2,New Arrival,https://www2.hm.com/en_us/productpage.1137323002.html
+328,Balloon-sleeved Wrap Dress,$24.99 ,,,,H&M,Ladies_dresses_wrap,3,New Arrival,https://www2.hm.com/en_us/productpage.1155349002.html
+329,Linen Shirt,$49.99 ,,,,H&M,ladies_premium_selection_tops,1,New Arrival,https://www2.hm.com/en_us/productpage.1138604001.html
+330,Sweatshirt with Motif,$24.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1136426009.html
+331,Padded Bomber Jacket,$49.99 ,,,,H&M,ladies_jacketscoats_bomber,4,New Arrival,https://www2.hm.com/en_us/productpage.1086386007.html
+332,Rib-knit Cardigan,$19.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,3,New Arrival,https://www2.hm.com/en_us/productpage.1076264009.html
+333,Oversized Flannel Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,5,New Arrival,https://www2.hm.com/en_us/productpage.1040459007.html
+334,Tie-detail Sweater Vest,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1121062003.html
+335,Collared Cable-knit Sweater,$29.99 ,,,,H&M,ladies_knitwear,5,New Arrival,https://www2.hm.com/en_us/productpage.1111775005.html
+336,Frill-trimmed dress,$29.99 ,,,,H&M,ladies_dresses_shortdresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1130090001.html
+337,Cotton Twill Trench Coat,$74.99 ,,,,H&M,ladies_jacketscoats_coats,1,New Arrival,https://www2.hm.com/en_us/productpage.1131111004.html
+338,Cowboy Boots,$59.99 ,,,,H&M,ladies_shoes_boots,1,New Arrival,https://www2.hm.com/en_us/productpage.1109143001.html
+339,Wide pull-on trousers,$32.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1153423001.html
+340,Gathered Dress,$64.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1152961001.html
+341,Oversized Gathered-sleeve Shirt,$59.99 ,,,,H&M,ladies_shirtsblouses_shirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1137414003.html
+342,Dress Pants,$34.99 ,,,,H&M,ladies_trousers,4,New Arrival,https://www2.hm.com/en_us/productpage.1138565004.html
+343,Cashmere-blend cardigan,$149.00 ,,,,H&M,ladies_cardigansjumpers_cardigans,1,New Arrival,https://www2.hm.com/en_us/productpage.1155466001.html
+344,Double-breasted trenchcoat,$74.99 ,,,,H&M,ladies_jacketscoats_coats,1,New Arrival,https://www2.hm.com/en_us/productpage.1115457001.html
+345,Fine-knit Corset-style Top,$17.99 ,,,,H&M,ladies_tops,1,New Arrival,https://www2.hm.com/en_us/productpage.1135085001.html
+346,Sheer Ribbed Top,$13.99 ,,,,H&M,ladies_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1121867002.html
+347,Ruffle-trimmed Crêped Blouse,$24.99 ,,,,H&M,ladies_shirtsblouses_blouses,1,New Arrival,https://www2.hm.com/en_us/productpage.1126584001.html
+348,Wide-leg Pants,$39.99 ,,,,H&M,ladies_trousers_highwaisted,2,New Arrival,https://www2.hm.com/en_us/productpage.1137968002.html
+349,Oversized Hooded Jacket,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1121733002.html
+350,Sneakers,$34.99 ,,,,H&M,ladies_shoes_sneakers,3,New Arrival,https://www2.hm.com/en_us/productpage.0949985008.html
+351,Biker Skirt,$35.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1124230001.html
+352,Sweatshirt Dress,$24.99 ,,,,H&M,ladies_basics_dressesskirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1110575004.html
+353,Top with Collar,$24.99 ,,,,H&M,ladies_tops_croppedtops,2,New Arrival,https://www2.hm.com/en_us/productpage.1146227001.html
+354,H&M+ Asymmetric hole-knit jumper,$24.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1156599001.html
+355,Scalloped-trim cardigan,$34.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,1,New Arrival,https://www2.hm.com/en_us/productpage.1146230001.html
+356,Oversized V-neck Sweatshirt,$29.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1127931001.html
+357,Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_basics_tops_longsleeve,5,New Arrival,https://www2.hm.com/en_us/productpage.1139538007.html
+358,Slingbacks,$29.99 ,,,,H&M,ladies_shoes_ballerinas_flats,2,New Arrival,https://www2.hm.com/en_us/productpage.1140765001.html
+359,Crease-leg Leggings,$24.99 ,,,,H&M,ladies_trousers_leggings,3,New Arrival,https://www2.hm.com/en_us/productpage.1053664006.html
+360,Pumps,$34.99 ,,,,H&M,ladies_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1125242003.html
+361,Sweatshirt with Motif,$29.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1056840034.html
+362,High Waist Joggers,$24.99 ,,,,H&M,ladies_basics_trousersleggings,9,New Arrival,https://www2.hm.com/en_us/productpage.0975845047.html
+363,Wide-leg Dress Pants,$59.99 ,,,,H&M,ladies_trousers,2,New Arrival,https://www2.hm.com/en_us/productpage.1154071003.html
+364,Cropped sweatshirt,$24.99 ,,,,H&M,ladies_basics_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1129801002.html
+365,Dress Pants,$39.99 ,,,,H&M,ladies_trousers_dressed,1,New Arrival,https://www2.hm.com/en_us/productpage.1089246001.html
+366,Rib-knit Top,$27.99 ,,,,H&M,ladies_tops_collared,1,New Arrival,https://www2.hm.com/en_us/productpage.1109391001.html
+367,Dress Pants,$34.99 ,,,,H&M,ladies_trousers,4,New Arrival,https://www2.hm.com/en_us/productpage.1138565003.html
+368,Oversized T-shirt Dress,$14.99 ,,,,H&M,ladies_basics_dressesskirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1128506001.html
+369,Bustier Top,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1158941004.html
+370,Rib-knit Sweater,$24.99 ,,,,H&M,ladies_knitwear,4,New Arrival,https://www2.hm.com/en_us/productpage.1107952004.html
+371,Rib-knit Skirt,$24.99 ,,,,H&M,Ladies_skirts_highwaisted,1,New Arrival,https://www2.hm.com/en_us/productpage.1130761002.html
+372,Tie-detail Sweater Vest,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1121062004.html
+373,Wedge-heeled Suede Mules,$84.99 ,,,,H&M,ladies_premium_selection_shoes,1,New Arrival,https://www2.hm.com/en_us/productpage.1137755001.html
+374,Lace-trimmed Shirt Dress,$74.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1145095001.html
+375,Wide-leg Dress Pants,$59.99 ,,,,H&M,ladies_trousers,2,New Arrival,https://www2.hm.com/en_us/productpage.1154071002.html
+376,Oversized Rib-knit Dress,$39.99 ,,,,H&M,ladies_dresses_maxidresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1122477001.html
+377,Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1131631001.html
+378,Sweater,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,6,New Arrival,https://www2.hm.com/en_us/productpage.1107948013.html
+379,Off-the-shoulder Thong Bodysuit,$24.99 ,,,,H&M,ladies_tops_bodys,2,New Arrival,https://www2.hm.com/en_us/productpage.1138102002.html
+380,Embroidered Ribbed Top,$19.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1107943004.html
+381,Oversized Print-motif Top,$17.99 ,,,,H&M,ladies_tops_longsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1153072001.html
+382,Oversized T-shirt,$9.99 ,,,,H&M,ladies_basics_tops_shortsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1128482001.html
+383,Quilted Jacket,$59.99 ,,,,H&M,ladies_jacketscoats_jackets,2,New Arrival,https://www2.hm.com/en_us/productpage.1136642002.html
+384,Crinkled Shirt,$34.99 ,,,,H&M,ladies_nightwear_loungewear,2,New Arrival,https://www2.hm.com/en_us/productpage.1140590002.html
+385,Boxy Sweater,$19.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,3,New Arrival,https://www2.hm.com/en_us/productpage.1137692004.html
+386,Heeled Platform Boots,$64.99 ,,,,H&M,ladies_shoes,1,New Arrival,https://www2.hm.com/en_us/productpage.1092859005.html
+387,Cotton Poplin Shirt Dress,$29.99 ,,,,H&M,ladies_dresses_longsleevedress,3,New Arrival,https://www2.hm.com/en_us/productpage.1151722003.html
+388,Sneakers,$34.99 ,,,,H&M,ladies_shoes_sneakers,2,New Arrival,https://www2.hm.com/en_us/productpage.1074571004.html
+389,Twill Cargo Pants,$25.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1129186007.html
+390,Cotton T-shirt,$12.99 ,,,,H&M,ladies_tops_shortsleeve,5,New Arrival,https://www2.hm.com/en_us/productpage.0979329041.html
+391,Top with Collar,$24.99 ,,,,H&M,ladies_tops_croppedtops,2,New Arrival,https://www2.hm.com/en_us/productpage.1146227002.html
+392,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_tops_printed_tshirts,5,New Arrival,https://www2.hm.com/en_us/productpage.0762558248.html
+393,Oversized Rib-knit Dress,$39.99 ,,,,H&M,ladies_dresses_maxidresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1122477002.html
+394,Smocked Cotton Dress,$34.99 ,,,,H&M,ladies_dresses_mididresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139034001.html
+395,7-pack Jersey Brazilian Briefs,$19.99 ,,,,H&M,ladies_lingerie,2,New Arrival,https://www2.hm.com/en_us/productpage.1096331004.html
+396,Oversized Jersey Top,$17.99 ,,,,H&M,ladies_tops_collared,2,New Arrival,https://www2.hm.com/en_us/productpage.1105109010.html
+397,Oversized T-shirt,$19.99 ,,,,H&M,ladies_tops_shortsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1061299019.html
+398,Square-neck Jersey Dress,$29.99 ,,,,H&M,ladies_dresses_mididresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1154836003.html
+399,Bootcut High Jeans,$29.99 ,,,,H&M,ladies_jeans_flare,3,New Arrival,https://www2.hm.com/en_us/productpage.1074295015.html
+400,Straight Pants,$49.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1138553001.html
+401,Flared Pants,$34.99 ,,,,H&M,ladies_trousers_flare,6,New Arrival,https://www2.hm.com/en_us/productpage.1099204013.html
+402,Cotton Poplin Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,5,New Arrival,https://www2.hm.com/en_us/productpage.1126542005.html
+403,Crop Top,$5.99 ,,,,H&M,ladies_basics_tops_shortsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.0975596035.html
+404,Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_basics_tops_longsleeve,5,New Arrival,https://www2.hm.com/en_us/productpage.1139538004.html
+405,Open-backed Knit Dress,$34.99 ,,,,H&M,ladies_dresses_longsleevedress,2,New Arrival,https://www2.hm.com/en_us/productpage.1140751002.html
+406,Chunky Sneakers,$49.99 ,,,,H&M,ladies_shoes_sneakers,3,New Arrival,https://www2.hm.com/en_us/productpage.1127981001.html
+407,Skinny High Jeans,$29.99 ,,,,H&M,ladies_jeans_skinny,3,New Arrival,https://www2.hm.com/en_us/productpage.1082961004.html
+408,Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1131631002.html
+409,Pajama Top and Shorts,$19.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1113710003.html
+410,H&M+ Oversized T-shirt,$12.99 ,,,,H&M,ladies_divided_basic,3,New Arrival,https://www2.hm.com/en_us/productpage.1138771001.html
+411,Printed Hooded Jacket,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1127636003.html
+412,Asymmetric Bikini Top,$24.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,1,New Arrival,https://www2.hm.com/en_us/productpage.1122206001.html
+413,Oversized V-neck Sweatshirt,$29.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1127931002.html
+414,Oversized Cashmere Sweater,$219.00 ,,,,H&M,ladies_cardigansjumpers_jumpers,2,New Arrival,https://www2.hm.com/en_us/productpage.0951963010.html
+415,Cropped blazer,$39.99 ,,,,H&M,ladies_blazers,1,New Arrival,https://www2.hm.com/en_us/productpage.1132901001.html
+416,Single-breasted Blazer,$34.99 ,,,,H&M,ladies_blazers,2,New Arrival,https://www2.hm.com/en_us/productpage.1119102001.html
+417,Crinkled Chiffon Shirt,$29.99 ,,,,H&M,ladies_shirtsblouses_shirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1103420013.html
+418,Sweatshirt,$17.99 ,,,,H&M,ladies_basics_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.0889828043.html
+419,Sweatshirt with Motif,$24.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1136426003.html
+420,Rib-knit Bodycon Dress,$39.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1104720003.html
+421,Hooded Jacket with Drawstring,$19.99 ,,,,H&M,ladies_hoodiesswetshirts_hoodies,2,New Arrival,https://www2.hm.com/en_us/productpage.1008664017.html
+422,Oversized T-shirt,$19.99 ,,,,H&M,ladies_tops_shortsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1061299025.html
+423,Patterned Viscose Pants,$64.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1128881003.html
+424,Ribbed Crop Top,$9.99 ,,,,H&M,ladies_basics_tops_shortsleeve,6,New Arrival,https://www2.hm.com/en_us/productpage.0980930029.html
+425,Hole-knit Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,4,New Arrival,https://www2.hm.com/en_us/productpage.1111777005.html
+426,Padded-cup lace body,$34.99 ,,,,H&M,ladies_lingerie_bodiescorsets,2,New Arrival,https://www2.hm.com/en_us/productpage.1131394001.html
+427,Wrap Blouse,$29.99 ,,,,H&M,ladies_shirtsblouses_blouses,1,New Arrival,https://www2.hm.com/en_us/productpage.1139294003.html
+428,Single-breasted Blazer,$34.99 ,,,,H&M,ladies_blazers,2,New Arrival,https://www2.hm.com/en_us/productpage.1119102002.html
+429,Pajama Shirt and Pants,$39.99 ,,,,H&M,ladies_nightwear_pyjamas,1,New Arrival,https://www2.hm.com/en_us/productpage.1102301001.html
+430,One-shoulder Ribbed Dress,$29.99 ,,,,H&M,ladies_dresses_bodycon,1,New Arrival,https://www2.hm.com/en_us/productpage.1146222001.html
+431,Water-repellent raincoat,$79.99 ,,,,H&M,ladies_jacketscoats_jackets,1,New Arrival,https://www2.hm.com/en_us/productpage.1133458001.html
+432,Printed T-shirt,$14.99 ,,,,H&M,ladies_tops_printed_tshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1127643001.html
+433,Shacket,$49.99 ,,,,H&M,ladies_jacketscoats_jackets,2,New Arrival,https://www2.hm.com/en_us/productpage.1130767003.html
+434,DryMove™ Sports Crop Top,$12.99 ,,,,H&M,sportswear_women_clothing_tops_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1123621001.html
+435,SoftMove™ Medium Support Sports Bra,$24.99 ,,,,H&M,sportswear_women_clothing_sportbra_medium,2,New Arrival,https://www2.hm.com/en_us/productpage.1125449001.html
+436,Pajama Top and Shorts,$24.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1113709005.html
+437,Ribbed Crop Top,$9.99 ,,,,H&M,ladies_basics_tops_shortsleeve,6,New Arrival,https://www2.hm.com/en_us/productpage.0980930027.html
+438,Biker Jacket,$64.99 ,,,,H&M,ladies_divided_jacketscoats,1,New Arrival,https://www2.hm.com/en_us/productpage.1128248001.html
+439,Sweatshirt,$12.99 ,,,,H&M,ladies_basics_tops_longsleeve,6,New Arrival,https://www2.hm.com/en_us/productpage.0994007030.html
+440,Satin Nightgown,$27.99 ,,,,H&M,ladies_nightwear_nightslips,2,New Arrival,https://www2.hm.com/en_us/productpage.1139521002.html
+441,3-pack Narrow Belts,$13.99 ,,,,H&M,ladies_accessories_belts,2,New Arrival,https://www2.hm.com/en_us/productpage.0942854008.html
+442,Oversized Hoodie,$39.99 ,,,,H&M,ladies_licence,4,New Arrival,https://www2.hm.com/en_us/productpage.1100984001.html
+443,Double-breasted trenchcoat,$74.99 ,,,,H&M,ladies_jacketscoats_coats,1,New Arrival,https://www2.hm.com/en_us/productpage.1115457003.html
+444,Oxford Shirt,$24.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1119246003.html
+445,90s Baggy Low Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_loose,2,New Arrival,https://www2.hm.com/en_us/productpage.1113296006.html
+446,Chunky Sneakers,$49.99 ,,,,H&M,ladies_shoes_sneakers,3,New Arrival,https://www2.hm.com/en_us/productpage.1127981002.html
+447,Leather Belt,$19.99 ,,,,H&M,ladies_accessories_belts,4,New Arrival,https://www2.hm.com/en_us/productpage.0179950027.html
+448,Hole-knit Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,4,New Arrival,https://www2.hm.com/en_us/productpage.1111777001.html
+449,Short Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1120565001.html
+450,Skinny Regular Jeans,$24.99 ,,,,H&M,ladies_jeans_skinny,5,New Arrival,https://www2.hm.com/en_us/productpage.0934966023.html
+451,Lace super push-up body,$34.99 ,,,,H&M,ladies_lingerie_bodiescorsets,1,New Arrival,https://www2.hm.com/en_us/productpage.1131380001.html
+452,Satin Nightgown,$24.99 ,,,,H&M,ladies_nightwear_nightslips,6,New Arrival,https://www2.hm.com/en_us/productpage.1059303008.html
+453,Crinkled Pants,$29.99 ,,,,H&M,ladies_nightwear_loungewear,2,New Arrival,https://www2.hm.com/en_us/productpage.1140592002.html
+454,Leather Boots,$119.00 ,,,,H&M,ladies_premium_selection_shoes,1,New Arrival,https://www2.hm.com/en_us/productpage.1092011001.html
+455,2-pack Ribbed Bra Tops,$17.99 ,,,,H&M,ladies_lingerie_bras_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1084229011.html
+456,Collared Cable-knit Sweater,$29.99 ,,,,H&M,ladies_knitwear,5,New Arrival,https://www2.hm.com/en_us/productpage.1111775003.html
+457,Mesh Thong Bodysuit,$24.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1156379001.html
+458,Long-sleeved Bodysuit,$14.99 ,,,,H&M,ladies_tops_bodys,4,New Arrival,https://www2.hm.com/en_us/productpage.1123802012.html
+459,Rib-knit Dress,$49.99 ,,,,H&M,ladies_dresses_maxidresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1101629002.html
+460,Textured Slingbacks,$39.99 ,,,,H&M,ladies_shoes_ballerinas_flats,1,New Arrival,https://www2.hm.com/en_us/productpage.1115073001.html
+461,Cargo Pants,$39.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1147306002.html
+462,Smocked Crop Top,$24.99 ,,,,H&M,ladies_tops_croppedtops,1,New Arrival,https://www2.hm.com/en_us/productpage.1146217001.html
+463,Twill Cargo Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1107358003.html
+464,Non-padded Underwire Lace Bra,$34.99 ,,,,H&M,ladies_lingerie_bras,3,New Arrival,https://www2.hm.com/en_us/productpage.1125976002.html
+465,90s Baggy Low Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_loose,2,New Arrival,https://www2.hm.com/en_us/productpage.1113296011.html
+466,High Waist Shaping Leggings,$49.99 ,,,,H&M,ladies_sport_bottoms_trousers,2,New Arrival,https://www2.hm.com/en_us/productpage.1087339004.html
+467,Non-padded Underwire Lace Bra,$34.99 ,,,,H&M,ladies_lingerie_bras,3,New Arrival,https://www2.hm.com/en_us/productpage.1125976003.html
+468,Oversized Cashmere-blend Sweater,$199.00 ,,,,H&M,ladies_premium_selection,1,New Arrival,https://www2.hm.com/en_us/productpage.1133907001.html
+469,Mom High Ankle Jeans,$29.99 ,,,,H&M,ladies_jeans_baggy,4,New Arrival,https://www2.hm.com/en_us/productpage.0714790091.html
+470,Sweatshirt with Motif,$24.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1136426004.html
+471,Slingbacks,$29.99 ,,,,H&M,ladies_shoes_sandals_espandrillos,3,New Arrival,https://www2.hm.com/en_us/productpage.1078610005.html
+472,Fine-knit Cashmere Cardigan,$219.00 ,,,,H&M,ladies_cardigansjumpers_cardigans,1,New Arrival,https://www2.hm.com/en_us/productpage.0892895008.html
+473,Off-the-shoulder Sweater,$34.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1134618002.html
+474,Double-breasted Wool-blend Coat,$219.00 ,,,,H&M,ladies_jacketscoats_coats,1,New Arrival,https://www2.hm.com/en_us/productpage.1131748001.html
+475,Textured-weave Jacket,$74.99 ,,,,H&M,ladies_jacketscoats_jackets,0,New Arrival,https://www2.hm.com/en_us/productpage.1141585001.html
+476,Fleece Sports Top,$34.99 ,,,,H&M,ladies_sport_tops_longsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1039568007.html
+477,Smocked Cotton Dress,$34.99 ,,,,H&M,ladies_dresses_mididresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139034002.html
+478,Hole-knit Wrapover Cardigan,$29.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,2,New Arrival,https://www2.hm.com/en_us/productpage.1130443001.html
+479,Tie-detail Sweater Vest,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1121062002.html
+480,Tasseled Sandals,$29.99 ,,,,H&M,ladies_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148729002.html
+481,Bikini Bottoms,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_bottoms,3,New Arrival,https://www2.hm.com/en_us/productpage.0928457012.html
+482,Straight Low Jeans,$34.99 ,,,,H&M,ladies_divided_jeans_straight,3,New Arrival,https://www2.hm.com/en_us/productpage.1128260004.html
+483,Chunky Sneakers,$49.99 ,,,,H&M,ladies_shoes_sneakers,3,New Arrival,https://www2.hm.com/en_us/productpage.1127981004.html
+484,Joggers,$17.99 ,,,,H&M,ladies_basics_trousersleggings,8,New Arrival,https://www2.hm.com/en_us/productpage.1047114017.html
+485,H&M+ Parachute trousers,$29.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1141590001.html
+486,Oversized Sweatshirt Dress,$34.99 ,,,,H&M,ladies_divided_conscious,1,New Arrival,https://www2.hm.com/en_us/productpage.1155292001.html
+487,Gathered Mesh Bodycon Dress,$29.99 ,,,,H&M,ladies_divided_dresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1135021001.html
+488,Hoodie,$29.99 ,,,,H&M,ladies_hoodiesswetshirts_hoodies,2,New Arrival,https://www2.hm.com/en_us/productpage.1097580010.html
+489,Satin Dress,$34.99 ,,,,H&M,ladies_dresses_longsleevedress,1,New Arrival,https://www2.hm.com/en_us/productpage.1101856002.html
+490,Rib-knit Bodycon Dress,$39.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1104720004.html
+491,Narrow Belt,$12.99 ,,,,H&M,ladies_accessories_belts,2,New Arrival,https://www2.hm.com/en_us/productpage.1120502001.html
+492,Mini Skirt,$39.99 ,,,,H&M,ladies_skirts_shortskirts,1,New Arrival,https://www2.hm.com/en_us/productpage.1144700001.html
+493,Pajama Camisole Top and Shorts,$29.99 ,,,,H&M,ladies_nightwear_pyjamas,3,New Arrival,https://www2.hm.com/en_us/productpage.1140059001.html
+494,Seamless Super Push-up Bra,$27.99 ,,,,H&M,ladies_lingerie_bras_superpushup,6,New Arrival,https://www2.hm.com/en_us/productpage.0923368029.html
+495,Fine-knit Cardigan,$17.99 ,,,,H&M,ladies_basics_cardigansjumpers,6,New Arrival,https://www2.hm.com/en_us/productpage.0579541140.html
+496,Oversized Cotton Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1085063007.html
+497,Appliquéd Cardigan,$17.99 ,,,,H&M,ladies_knitwear,1,New Arrival,https://www2.hm.com/en_us/productpage.1154115001.html
+498,Windproof Zip-hem Track Pants,$39.99 ,,,,H&M,sportswear_women_clothing_trousersjoggers,1,New Arrival,https://www2.hm.com/en_us/productpage.1126404001.html
+499,Long-sleeved Jersey Top,$12.99 ,,,,H&M,ladies_basics_tops_longsleeve,5,New Arrival,https://www2.hm.com/en_us/productpage.0768931039.html
+500,Oversized Satin Blouse,$24.99 ,,,,H&M,ladies_shirtsblouses_blouses,1,New Arrival,https://www2.hm.com/en_us/productpage.0998943020.html
+501,Fitted Cotton Top,$12.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1122165003.html
+502,Camisole Top,$9.99 ,,,,H&M,ladies_basics,3,New Arrival,https://www2.hm.com/en_us/productpage.1161874001.html
+503,Collared Ribbed Top,$14.99 ,,,,H&M,ladies_tops_shortsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1054147007.html
+504,Viscose-blend Cardigan,$32.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,1,New Arrival,https://www2.hm.com/en_us/productpage.1149878001.html
+505,Tie-belt Cotton Shirt Dress,$29.99 ,,,,H&M,ladies_dresses_longsleevedress,1,New Arrival,https://www2.hm.com/en_us/productpage.1139857001.html
+506,Pajama Top and Shorts,$19.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1113710004.html
+507,Skinny High Jeans,$24.99 ,,,,H&M,ladies_jeans_skinny,7,New Arrival,https://www2.hm.com/en_us/productpage.1025457028.html
+508,H&M+ Mom Loose-fit Ultra High Jeans,$29.99 ,,,,H&M,ladies_jeans_baggy,4,New Arrival,https://www2.hm.com/en_us/productpage.0978833020.html
+509,Wide cargo trousers,$34.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1137986002.html
+510,5-pack Ribbed Brazilian Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_brazilian,1,New Arrival,https://www2.hm.com/en_us/productpage.1030120003.html
+511,Hoodie with Motif,$25.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1121722005.html
+512,Sweatshirt Dress,$24.99 ,,,,H&M,ladies_basics_dressesskirts,5,New Arrival,https://www2.hm.com/en_us/productpage.0979874013.html
+513,High-leg One-shoulder Swimsuit,$34.99 ,,,,H&M,ladies_swimwear_swimsuits,3,New Arrival,https://www2.hm.com/en_us/productpage.1116381003.html
+514,90s Baggy Low Jeans,$29.99 ,,,,H&M,ladies_divided_jeans_loose,2,New Arrival,https://www2.hm.com/en_us/productpage.1113296005.html
+515,Bodycon Dress with Collar,$24.99 ,,,,H&M,ladies_divided_dresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1146263006.html
+516,Appliquéd baseball jacket,$64.99 ,,,,H&M,ladies_divided_jacketscoats,1,New Arrival,https://www2.hm.com/en_us/productpage.1131100004.html
+517,Rib-knit Pants,$29.99 ,,,,H&M,ladies_nightwear_loungewear,1,New Arrival,https://www2.hm.com/en_us/productpage.1121848001.html
+518,Fine-knit Cardigan,$17.99 ,,,,H&M,ladies_basics_cardigansjumpers,6,New Arrival,https://www2.hm.com/en_us/productpage.0579541141.html
+519,Mom Fit Denim Overalls,$39.99 ,,,,H&M,ladies_jeans_loose,2,New Arrival,https://www2.hm.com/en_us/productpage.1030061012.html
+520,Chunky Loafers,$39.99 ,,,,H&M,ladies_shoes,1,New Arrival,https://www2.hm.com/en_us/productpage.1138525001.html
+521,Lace Garter Belt,$24.99 ,,,,H&M,ladies_lingerie_accessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1131428002.html
+522,Pleated blouse,$35.99 ,,,,H&M,ladies_shirtsblouses_blouses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139295001.html
+523,Padded-cup lace body,$34.99 ,,,,H&M,ladies_lingerie_bodiescorsets,2,New Arrival,https://www2.hm.com/en_us/productpage.1131394002.html
+524,Padded Triangle Bikini Top,$12.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,1,New Arrival,https://www2.hm.com/en_us/productpage.1115356001.html
+525,Pajama Camisole Top and Shorts,$29.99 ,,,,H&M,ladies_nightwear_pyjamas,3,New Arrival,https://www2.hm.com/en_us/productpage.1140059002.html
+526,H&M+ Oversized Printed Sweatshirt,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1137340001.html
+527,Mules,$29.99 ,,,,H&M,Ladies_shoes_slipon,2,New Arrival,https://www2.hm.com/en_us/productpage.1140912001.html
+528,Padded-cup Swim Top,$24.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,2,New Arrival,https://www2.hm.com/en_us/productpage.1116717001.html
+529,Push-up Bikini Top,$19.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,2,New Arrival,https://www2.hm.com/en_us/productpage.1114608001.html
+530,Short Wrap-front Skirt,$14.99 ,,,,H&M,Ladies_skirts_highwaisted,1,New Arrival,https://www2.hm.com/en_us/productpage.1114253005.html
+531,Pointelle-knit cropped cardigan,$29.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,1,New Arrival,https://www2.hm.com/en_us/productpage.1120578002.html
+532,Hipster Bikini Bottoms,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_bottoms,2,New Arrival,https://www2.hm.com/en_us/productpage.1116720001.html
+533,2-pack Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1125978002.html
+534,Rib-knit Half-zip Sweater,$39.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1134616003.html
+535,Tie Bikini Bottoms,$12.99 ,,,,H&M,ladies_swimwear_bikinisets_bottoms,3,New Arrival,https://www2.hm.com/en_us/productpage.1115592001.html
+536,Crinkled blouse,$29.99 ,,,,H&M,ladies_shirtsblouses_blouses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139014001.html
+537,Ribbed Flared Pants,$29.99 ,,,,H&M,ladies_trousers_flare,3,New Arrival,https://www2.hm.com/en_us/productpage.1101615004.html
+538,Padded Bomber Jacket,$49.99 ,,,,H&M,ladies_jacketscoats_bomber,4,New Arrival,https://www2.hm.com/en_us/productpage.1086386008.html
+539,Chunky Sneakers,$49.99 ,,,,H&M,ladies_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1115162002.html
+540,Sweatpants,$24.99 ,,,,H&M,ladies_basics_trousersleggings,2,New Arrival,https://www2.hm.com/en_us/productpage.1129802001.html
+541,2-pack Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1125978003.html
+542,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1127641001.html
+543,Tailored trousers,$34.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1138598001.html
+544,Biker trousers,$40.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1108566001.html
+545,Mules,$34.99 ,,,,H&M,ladies_shoes,3,New Arrival,https://www2.hm.com/en_us/productpage.1148664002.html
+546,Padded Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1115638003.html
+547,Sweatshirt with Eyelet Embroidery,$34.99 ,,,,H&M,ladies_hoodiesswetshirts_sweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1131435003.html
+548,Short Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1120565003.html
+549,5-pack Cotton Thong Briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,5,New Arrival,https://www2.hm.com/en_us/productpage.1094168008.html
+550,H&M+ Oversized T-shirt,$12.99 ,,,,H&M,ladies_divided_basic,3,New Arrival,https://www2.hm.com/en_us/productpage.1138771004.html
+551,Oversized Single-breasted Jacket,$99.00 ,,,,H&M,ladies_blazers,3,New Arrival,https://www2.hm.com/en_us/productpage.1107623004.html
+552,Long-sleeved Cotton Top,$9.99 ,,,,H&M,ladies_divided_basic,4,New Arrival,https://www2.hm.com/en_us/productpage.1110608004.html
+553,Canvas High Tops,$49.99 ,,,,H&M,ladies_shoes_sneakers,1,New Arrival,https://www2.hm.com/en_us/productpage.1115161001.html
+554,DryMove™ Medium Support Sports Bra,$19.99 ,,,,H&M,ladies_lingerie_bras,1,New Arrival,https://www2.hm.com/en_us/productpage.1143646001.html
+555,Embroidered Ribbed Top,$19.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1107943001.html
+556,H&M+ Sweater,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1134899001.html
+557,Joggers,$24.99 ,,,,H&M,ladies_basics_trousersleggings,4,New Arrival,https://www2.hm.com/en_us/productpage.1119376004.html
+558,Narrow Belt,$12.99 ,,,,H&M,ladies_accessories_belts,2,New Arrival,https://www2.hm.com/en_us/productpage.1120502002.html
+559,Wrapover Ribbed Top,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1153714002.html
+560,Boxy-style shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1147165001.html
+561,Joggers,$17.99 ,,,,H&M,ladies_basics_trousersleggings,8,New Arrival,https://www2.hm.com/en_us/productpage.1047114014.html
+562,Mules,$34.99 ,,,,H&M,ladies_shoes,3,New Arrival,https://www2.hm.com/en_us/productpage.1148664001.html
+563,Chunky Sneakers,$49.99 ,,,,H&M,ladies_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1115162001.html
+564,Pajama Pants,$24.99 ,,,,H&M,ladies_nightwear_pyjamas,3,New Arrival,https://www2.hm.com/en_us/productpage.1107805008.html
+565,Bustier Top,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1158941006.html
+566,Padded Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1115638001.html
+567,H&M+ 90s Boyfriend Jeans,$39.99 ,,,,H&M,ladies_divided_jeans_loose,2,New Arrival,https://www2.hm.com/en_us/productpage.1135417002.html
+568,DryMove™ Seamless Sports bra,$17.99 ,,,,H&M,ladies_lingerie_bras,4,New Arrival,https://www2.hm.com/en_us/productpage.1116753008.html
+569,Hole-knit Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,4,New Arrival,https://www2.hm.com/en_us/productpage.1111777003.html
+570,Twill Cargo Pants,$34.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1124755002.html
+571,Cotton Cap,$9.99 ,,,,H&M,ladies_accessories_hats_caps,5,New Arrival,https://www2.hm.com/en_us/productpage.1062001005.html
+572,Oversized T-shirt Dress,$14.99 ,,,,H&M,ladies_basics_dressesskirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1128506002.html
+573,Padded Bandeau Bikini Top,$24.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,2,New Arrival,https://www2.hm.com/en_us/productpage.1122177002.html
+574,Long-sleeved Bodysuit,$17.99 ,,,,H&M,ladies_tops_bodys,1,New Arrival,https://www2.hm.com/en_us/productpage.1109769004.html
+575,DryMove™ Zip-through sports jacket,$39.99 ,,,,H&M,sportswear_women_clothing_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1117587002.html
+576,Patterned Mesh Skirt,$24.99 ,,,,H&M,ladies_skirts_midiskirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1134917001.html
+577,Satin Scarf,$12.99 ,,,,H&M,ladies_accessories_scarves,3,New Arrival,https://www2.hm.com/en_us/productpage.1082047006.html
+578,Printed Pajamas,$29.99 ,,,,H&M,ladies_nightwear_pyjamas,3,New Arrival,https://www2.hm.com/en_us/productpage.0920651022.html
+579,Ribbed Crop Top,$9.99 ,,,,H&M,ladies_basics_tops_shortsleeve,6,New Arrival,https://www2.hm.com/en_us/productpage.0980930028.html
+580,2-pack Super Push-up Bras,$34.99 ,,,,H&M,ladies_lingerie_bras_multipack,1,New Arrival,https://www2.hm.com/en_us/productpage.1115011001.html
+581,Pajama Pants,$24.99 ,,,,H&M,ladies_nightwear_pyjamas,3,New Arrival,https://www2.hm.com/en_us/productpage.1107805002.html
+582,Satin Nightgown,$24.99 ,,,,H&M,ladies_nightwear_nightslips,6,New Arrival,https://www2.hm.com/en_us/productpage.1059303010.html
+583,Satin Nightgown,$27.99 ,,,,H&M,ladies_nightwear_nightslips,2,New Arrival,https://www2.hm.com/en_us/productpage.1139521003.html
+584,Crêped Pull-on Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1143032002.html
+585,Printed Sweatshirt,$12.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1121846002.html
+586,Hooded Jacket,$34.99 ,,,,H&M,ladies_sport_tops_longsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.0975385006.html
+587,Super Push-up Bikini Top,$24.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,1,New Arrival,https://www2.hm.com/en_us/productpage.1116675001.html
+588,Printed Nightgown,$24.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1121608003.html
+589,Wool-blend tailored trousers,$74.99 ,,,,H&M,ladies_trousers,1,New Arrival,https://www2.hm.com/en_us/productpage.1136797003.html
+590,Hole-knit Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,4,New Arrival,https://www2.hm.com/en_us/productpage.1111777004.html
+591,2-pack Medium Support Sports Bras,$24.99 ,,,,H&M,ladies_sport_sportbras,3,New Arrival,https://www2.hm.com/en_us/productpage.1093790005.html
+592,Flared Twill Pants,$29.99 ,,,,H&M,ladies_trousers_flare,2,New Arrival,https://www2.hm.com/en_us/productpage.1128000001.html
+593,2-pack lace thong briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1131372001.html
+594,Rib-knit Crop Cardigan,$19.99 ,,,,H&M,ladies_knitwear,3,New Arrival,https://www2.hm.com/en_us/productpage.1107944003.html
+595,High Waist Sports Leggings,$24.99 ,,,,H&M,sportswear_women_clothing_leggingstights_highwaist,6,New Arrival,https://www2.hm.com/en_us/productpage.1010082020.html
+596,H&M+ Poplin Shirt Dress,$29.99 ,,,,H&M,ladies_plus_dresses_longsleeved,2,New Arrival,https://www2.hm.com/en_us/productpage.1133561002.html
+597,Non-padded underwired stretch satin bra,$19.99 ,,,,H&M,ladies_lingerie_bras,2,New Arrival,https://www2.hm.com/en_us/productpage.1121660003.html
+598,DryMove™ Medium Support Sports bra,$24.99 ,,,,H&M,ladies_lingerie_bras,2,New Arrival,https://www2.hm.com/en_us/productpage.1130645002.html
+599,Crop Tank Top,$6.99 ,,,,H&M,ladies_basics_tops_vests,3,New Arrival,https://www2.hm.com/en_us/productpage.1135364001.html
+600,Oversized T-shirt,$9.99 ,,,,H&M,ladies_basics_tops_shortsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1128482003.html
+601,Non-padded underwired stretch satin bra,$19.99 ,,,,H&M,ladies_lingerie_bras,2,New Arrival,https://www2.hm.com/en_us/productpage.1121660001.html
+602,9-pack Rings,$12.99 ,,,,H&M,ladies_accessories_jewellery_rings,1,New Arrival,https://www2.hm.com/en_us/productpage.1074469004.html
+603,Viscose-blend Crop Top,$19.99 ,,,,H&M,ladies_nightwear_loungewear,1,New Arrival,https://www2.hm.com/en_us/productpage.1094228003.html
+604,Crinkled blouse,$29.99 ,,,,H&M,ladies_shirtsblouses_blouses,2,New Arrival,https://www2.hm.com/en_us/productpage.1139014002.html
+605,Sweatshirt Dress,$24.99 ,,,,H&M,ladies_basics_dressesskirts,5,New Arrival,https://www2.hm.com/en_us/productpage.0979874015.html
+606,Long-sleeved Bodysuit,$14.99 ,,,,H&M,ladies_tops_bodys,4,New Arrival,https://www2.hm.com/en_us/productpage.1123802014.html
+607,Camisole Top,$9.99 ,,,,H&M,ladies_basics,3,New Arrival,https://www2.hm.com/en_us/productpage.1161874002.html
+608,Pointelle Jersey Top,$12.99 ,,,,H&M,ladies_tops_shortsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1127905001.html
+609,3-pack Lace-trimmed Bikini Briefs,$17.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1137743002.html
+610,DryMove™ Flared sports trousers,$34.99 ,,,,H&M,ladies_sport_bottoms_trousers,2,New Arrival,https://www2.hm.com/en_us/productpage.1117135005.html
+611,One-shoulder Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,3,New Arrival,https://www2.hm.com/en_us/productpage.1143096001.html
+612,DryMove™ Seamless Sports Top,$29.99 ,,,,H&M,ladies_sportswear_yoga,2,New Arrival,https://www2.hm.com/en_us/productpage.1125098001.html
+613,Ribbed Henley Shirt,$17.99 ,,,,H&M,ladies_basics_tops_longsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1000128017.html
+614,Ribbed Cotton Tank Top,$12.99 ,,,,H&M,ladies_tops_vests,0,New Arrival,https://www2.hm.com/en_us/productpage.1131782001.html
+615,Hole-knit Wrapover Cardigan,$29.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,2,New Arrival,https://www2.hm.com/en_us/productpage.1130443002.html
+616,Boxy-style shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1147165003.html
+617,H&M+ Twill cargo trousers,$29.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1143527001.html
+618,Hoodie with Motif,$25.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1121722004.html
+619,H&M+ Straight joggers,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148172002.html
+620,Long Printed T-shirt,$24.99 ,,,,H&M,ladies_tops_printed_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1002471030.html
+621,Puffer gilet,$39.99 ,,,,H&M,ladies_jacketscoats_gilets,2,New Arrival,https://www2.hm.com/en_us/productpage.1128508002.html
+622,Flared Leggings,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1115173002.html
+623,Flared Leggings,$14.99 ,,,,H&M,ladies_divided_basic,2,New Arrival,https://www2.hm.com/en_us/productpage.1137317002.html
+624,V-neck Dress,$32.99 ,,,,H&M,ladies_dresses_aline,1,New Arrival,https://www2.hm.com/en_us/productpage.1087411002.html
+625,Ribbed Top with Collar,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1121052001.html
+626,Open-backed Knit Dress,$34.99 ,,,,H&M,ladies_dresses_longsleevedress,2,New Arrival,https://www2.hm.com/en_us/productpage.1140751001.html
+627,Knee-high Boots,$74.99 ,,,,H&M,ladies_shoes_boots,2,New Arrival,https://www2.hm.com/en_us/productpage.1076691004.html
+628,Rib-knit Sweater Vest,$12.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,3,New Arrival,https://www2.hm.com/en_us/productpage.1080849008.html
+629,Button-front Crêped Dress,$39.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1135028002.html
+630,Seamless Ribbed Leggings,$24.99 ,,,,H&M,ladies_nightwear_loungewear,1,New Arrival,https://www2.hm.com/en_us/productpage.1052909006.html
+631,Short Hooded Jacket,$24.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1113968003.html
+632,Straight Cargo Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1115302004.html
+633,Pointelle-knit cropped cardigan,$29.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,1,New Arrival,https://www2.hm.com/en_us/productpage.1120578001.html
+634,2-pack Lace-trimmed Tank Tops,$19.99 ,,,,H&M,ladies_tops_vests,2,New Arrival,https://www2.hm.com/en_us/productpage.1146154002.html
+635,Pajama Camisole Top and Shorts,$29.99 ,,,,H&M,ladies_nightwear_pyjamas,3,New Arrival,https://www2.hm.com/en_us/productpage.1140059003.html
+636,DryMove™ Seamless Sports bra,$17.99 ,,,,H&M,ladies_lingerie_bras,4,New Arrival,https://www2.hm.com/en_us/productpage.1116753005.html
+637,2-pack Bike Shorts,$12.99 ,,,,H&M,Ladies_shorts_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1139602001.html
+638,H&M+ Oversized T-shirt,$12.99 ,,,,H&M,ladies_divided_basic,3,New Arrival,https://www2.hm.com/en_us/productpage.1138771003.html
+639,Padded Triangle Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,2,New Arrival,https://www2.hm.com/en_us/productpage.1116226001.html
+640,High Leg Swimsuit,$32.99 ,,,,H&M,ladies_swimwear_swimsuits,2,New Arrival,https://www2.hm.com/en_us/productpage.1116945001.html
+641,Padded-cup Swimsuit,$24.99 ,,,,H&M,ladies_swimwear_swimsuits,3,New Arrival,https://www2.hm.com/en_us/productpage.1113772006.html
+642,Tie Bikini Bottoms,$14.99 ,,,,H&M,ladies_swimwear_bikinisets_bottoms,1,New Arrival,https://www2.hm.com/en_us/productpage.1117679001.html
+643,Long-sleeved Jersey Shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1113691004.html
+644,Wide twill trousers,$24.99 ,,,,H&M,ladies_divided_new_clothes,0,New Arrival,https://www2.hm.com/en_us/productpage.1148264001.html
+645,One-shoulder Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,3,New Arrival,https://www2.hm.com/en_us/productpage.1143096002.html
+646,5-pack Briefs,$12.99 ,,,,H&M,ladies_lingerie_briefsknickers_bikinibriefs,7,New Arrival,https://www2.hm.com/en_us/productpage.1084213006.html
+647,H&M+ Sweatshirt Dress,$19.99 ,,,,H&M,ladies_divided_dresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1095090003.html
+648,H&M+ Wide-leg Twill Pants,$17.99 ,,,,H&M,ladies_plus_bottoms,2,New Arrival,https://www2.hm.com/en_us/productpage.1030059011.html
+649,H&M+ Rib-knit Bodycon Dress,$39.99 ,,,,H&M,ladies_divided_dresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1133580001.html
+650,Camisole Top,$9.99 ,,,,H&M,ladies_basics,3,New Arrival,https://www2.hm.com/en_us/productpage.1161874003.html
+651,Hoodie with Motif,$25.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1121722003.html
+652,H&M+ Stand-up Collar Satin Blouse,$17.99 ,,,,H&M,ladies_shirtsblouses_blouses,1,New Arrival,https://www2.hm.com/en_us/productpage.1098747007.html
+653,Button-front crêpe blouse,$29.99 ,,,,H&M,ladies_divided_conscious,2,New Arrival,https://www2.hm.com/en_us/productpage.1134773001.html
+654,Ribbed Jersey Top,$17.99 ,,,,H&M,ladies_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1137404002.html
+655,Oversized Printed T-shirt,$17.99 ,,,,H&M,ladies_tops_printed_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1136437011.html
+656,2-pack lace thong briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1131372002.html
+657,DryMove™ Sports Crop Top,$12.99 ,,,,H&M,sportswear_women_clothing_tops_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1123621002.html
+658,Ribbed Bandeau Dress,$9.99 ,,,,H&M,ladies_basics_dressesskirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1128502003.html
+659,Printed Nightgown,$24.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1121608001.html
+660,Printed Canvas Shopper,$19.99 ,,,,H&M,ladies_accessories_bags_shoppertotes,2,New Arrival,https://www2.hm.com/en_us/productpage.1108580003.html
+661,Lace suspender belt,$17.99 ,,,,H&M,ladies_lingerie_accessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1131386001.html
+662,Oversized Hooded Jacket,$34.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1121733003.html
+663,Satin Nightgown,$24.99 ,,,,H&M,ladies_nightwear_nightslips,6,New Arrival,https://www2.hm.com/en_us/productpage.1059303009.html
+664,Puff-sleeved Crêped Dress,$39.99 ,,,,H&M,ladies_dresses_maxidresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1088419006.html
+665,Motif-front jumper,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,0,New Arrival,https://www2.hm.com/en_us/productpage.1140371001.html
+666,SoftMove™ Medium Support Sports Bra,$24.99 ,,,,H&M,sportswear_women_clothing_sportbra_medium,2,New Arrival,https://www2.hm.com/en_us/productpage.1125449002.html
+667,Belt Bag,$34.99 ,,,,H&M,men_accessories_bags,1,New Arrival,https://www2.hm.com/en_us/productpage.1121754003.html
+668,Suit Vest,$19.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1128227003.html
+669,Hooded Sweatshirt Dress,$39.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1112683002.html
+670,Lace Push-up Bra,$14.99 ,,,,H&M,ladies_lingerie_bras_pushup,7,New Arrival,https://www2.hm.com/en_us/productpage.1080301022.html
+671,Button-front crêpe blouse,$29.99 ,,,,H&M,ladies_divided_conscious,2,New Arrival,https://www2.hm.com/en_us/productpage.1134773003.html
+672,Platform Sandals,$49.99 ,,,,H&M,ladies_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1125747001.html
+673,Padded Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,12,New Arrival,https://www2.hm.com/en_us/productpage.0929321024.html
+674,Corduroy Overall Dress,$34.99 ,,,,H&M,ladies_dresses_shortdresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1106798006.html
+675,Bustier Top,$17.99 ,,,,H&M,ladies_divided_new_clothes,3,New Arrival,https://www2.hm.com/en_us/productpage.1158941005.html
+676,2-pack Thong Briefs,$12.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,2,New Arrival,https://www2.hm.com/en_us/productpage.1137736002.html
+677,Push-up Thong Bodysuit,$34.99 ,,,,H&M,ladies_tops_bodys,1,New Arrival,https://www2.hm.com/en_us/productpage.1121504001.html
+678,2-pack jersey headbands,$6.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1163572002.html
+679,Oversized Corduroy Shirt,$29.99 ,,,,H&M,ladies_shirtsblouses_shirts,7,New Arrival,https://www2.hm.com/en_us/productpage.1087519011.html
+680,Quilted Handbag,$24.99 ,,,,H&M,ladies_accessories_bags,2,New Arrival,https://www2.hm.com/en_us/productpage.1133073002.html
+681,Oversized Poplin Shirt,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1134735011.html
+682,Fitted Cotton Top,$12.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1122165002.html
+683,Pajama Shirt and Shorts,$49.99 ,,,,H&M,ladies_nightwear_pyjamas,6,New Arrival,https://www2.hm.com/en_us/productpage.0742967016.html
+684,DryMove™ High Support Sports Bra,$24.99 ,,,,H&M,sportswear_women_clothing_sportbra_high,3,New Arrival,https://www2.hm.com/en_us/productpage.1124757005.html
+685,Crêped Cut-out Dress,$29.99 ,,,,H&M,ladies_dresses_cutout,1,New Arrival,https://www2.hm.com/en_us/productpage.1109937001.html
+686,Necklace,$5.99 ,,,,H&M,ladies_accessories_jewellery_necklaces,2,New Arrival,https://www2.hm.com/en_us/productpage.1156014003.html
+687,5-pack Lace Thong Briefs,$19.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,10,New Arrival,https://www2.hm.com/en_us/productpage.1075646010.html
+688,Hipster Bikini Bottoms,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_bottoms,2,New Arrival,https://www2.hm.com/en_us/productpage.1116720002.html
+689,Lace Push-up Bra,$24.99 ,,,,H&M,ladies_lingerie_bras_padded,2,New Arrival,https://www2.hm.com/en_us/productpage.1131382001.html
+690,Collared Sweater,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,4,New Arrival,https://www2.hm.com/en_us/productpage.1025874010.html
+691,2-pack Soft-cup Push-up Bras,$27.99 ,,,,H&M,ladies_lingerie_bras_multipack,1,New Arrival,https://www2.hm.com/en_us/productpage.1121737001.html
+692,Printed Sweatshirt,$12.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1121846004.html
+693,Padded Triangle Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1055055006.html
+694,Fluffy Dog Sweater,$24.99 ,,,,H&M,ladies_dog,2,New Arrival,https://www2.hm.com/en_us/productpage.1019978009.html
+695,One-shoulder Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,3,New Arrival,https://www2.hm.com/en_us/productpage.1143096003.html
+696,Padded Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1115638002.html
+697,Slingbacks,$29.99 ,,,,H&M,ladies_shoes_ballerinas_flats,2,New Arrival,https://www2.hm.com/en_us/productpage.1140765002.html
+698,H&M+ Straight joggers,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148172001.html
+699,Padded Lace Bustier,$34.99 ,,,,H&M,ladies_lingerie_bras_padded,3,New Arrival,https://www2.hm.com/en_us/productpage.1131400001.html
+700,Oversized Cotton Overshirt,$29.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1145525001.html
+701,2-pack Crop Tube Tops,$9.99 ,,,,H&M,ladies_basics_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1139614001.html
+702,Oversized Flannel Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,5,New Arrival,https://www2.hm.com/en_us/productpage.1040459008.html
+703,Under-eye Patches,$5.99 ,,,,H&M,beauty_skincare_masks,1,New Arrival,https://www2.hm.com/en_us/productpage.1111247001.html
+704,Lace Push-up Bra,$24.99 ,,,,H&M,ladies_lingerie_bras_padded,2,New Arrival,https://www2.hm.com/en_us/productpage.1131382002.html
+705,2-pack Crop Tube Tops,$9.99 ,,,,H&M,ladies_basics_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1139614003.html
+706,Crop Tank Top,$6.99 ,,,,H&M,ladies_basics_tops_vests,3,New Arrival,https://www2.hm.com/en_us/productpage.1135364004.html
+707,H&M+ 2-pack Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_bikinibriefs,2,New Arrival,https://www2.hm.com/en_us/productpage.0979761008.html
+708,Cable-knit jumper,$34.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1120560004.html
+709,Motif-front Sweater,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1111800001.html
+710,Tie Bikini Bottoms,$12.99 ,,,,H&M,ladies_swimwear_bikinisets_bottoms,3,New Arrival,https://www2.hm.com/en_us/productpage.1115592003.html
+711,Romper,$34.99 ,,,,H&M,ladies_jumpsuits_short,1,New Arrival,https://www2.hm.com/en_us/productpage.1143111001.html
+712,Platform Sandals,$49.99 ,,,,H&M,ladies_shoes,2,New Arrival,https://www2.hm.com/en_us/productpage.1125747002.html
+713,Zip-hem Leggings,$27.99 ,,,,H&M,ladies_trousers_leggings,1,New Arrival,https://www2.hm.com/en_us/productpage.1131437001.html
+714,H&M+ Tie-belt cotton shirt dress,$29.99 ,,,,H&M,ladies_plus_dresses_longsleeved,1,New Arrival,https://www2.hm.com/en_us/productpage.1140920001.html
+715,Pointelle-knit Cardigan,$24.99 ,,,,H&M,ladies_cardigansjumpers_cardigans,3,New Arrival,https://www2.hm.com/en_us/productpage.1107946001.html
+716,Heart-shaped Hand Mirror,$4.99 ,,,,H&M,beauty_makeup,1,New Arrival,https://www2.hm.com/en_us/productpage.1122833001.html
+717,Short necklace,$6.99 ,,,,H&M,ladies_accessories_jewellery_necklaces,2,New Arrival,https://www2.hm.com/en_us/productpage.1156368002.html
+718,Sunglasses,$17.99 ,,,,H&M,ladies_accessories_sunglasses,1,New Arrival,https://www2.hm.com/en_us/productpage.1138864001.html
+719,H&M+ Sweater,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1134899002.html
+720,Mules,$34.99 ,,,,H&M,ladies_shoes,3,New Arrival,https://www2.hm.com/en_us/productpage.1148664003.html
+721,5-pack Ribbed Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,6,New Arrival,https://www2.hm.com/en_us/productpage.0875635031.html
+722,2-pack Microfiber Push-up Bras,$27.99 ,,,,H&M,ladies_lingerie_bras_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.0509669016.html
+723,Wool-blend Shacket,$79.99 ,,,,H&M,ladies_jacketscoats_jackets,2,New Arrival,https://www2.hm.com/en_us/productpage.1126725003.html
+724,Flounced Off-the-shoulder Blouse,$34.99 ,,,,H&M,ladies_shirtblouses_offshoulderblouses,1,New Arrival,https://www2.hm.com/en_us/productpage.1103939001.html
+725,Printed Sweatshirt,$29.99 ,,,,H&M,ladies_nightwear_loungewear,3,New Arrival,https://www2.hm.com/en_us/productpage.1058833007.html
+726,Printed T-shirt,$14.99 ,,,,H&M,ladies_tops_printed_tshirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1127643008.html
+727,H&M+ Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1143743002.html
+728,Water-repellent Sports Jacket,$49.99 ,,,,H&M,ladies_jacketscoats_jackets,1,New Arrival,https://www2.hm.com/en_us/productpage.1129493001.html
+729,Padded Triangle Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,2,New Arrival,https://www2.hm.com/en_us/productpage.1116226002.html
+730,7-pack jersey Brazilian briefs,$19.99 ,,,,H&M,ladies_lingerie_briefsknickers_brazilian,1,New Arrival,https://www2.hm.com/en_us/productpage.1086506003.html
+731,2-pack lace thong briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1131372003.html
+732,Twill Cargo Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1107358002.html
+733,Loafers,$34.99 ,,,,H&M,Ladies_shoes_loafers,3,New Arrival,https://www2.hm.com/en_us/productpage.1115290003.html
+734,Wrap Dress,$39.99 ,,,,H&M,Ladies_dresses_wrap,1,New Arrival,https://www2.hm.com/en_us/productpage.1148514001.html
+735,Sweater,$29.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,6,New Arrival,https://www2.hm.com/en_us/productpage.1107948009.html
+736,Seamless leggings,$17.99 ,,,,H&M,ladies_trousers_leggings,1,New Arrival,https://www2.hm.com/en_us/productpage.1126452001.html
+737,Cotton Poplin Shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1134739001.html
+738,Long-sleeved Jersey Top,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1159044002.html
+739,Printed Top,$9.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148940001.html
+740,5-pack Briefs,$12.99 ,,,,H&M,ladies_lingerie_briefsknickers_bikinibriefs,7,New Arrival,https://www2.hm.com/en_us/productpage.1084213009.html
+741,DryMove™ Medium Support Sports Bra,$12.99 ,,,,H&M,sportswear_women_clothing_sportbra_medium,4,New Arrival,https://www2.hm.com/en_us/productpage.1014123017.html
+742,Shacket,$49.99 ,,,,H&M,ladies_jacketscoats_jackets,2,New Arrival,https://www2.hm.com/en_us/productpage.1130767001.html
+743,Non-padded Underwire Lace Bra,$19.99 ,,,,H&M,ladies_lingerie_bras,3,New Arrival,https://www2.hm.com/en_us/productpage.1094531011.html
+744,25 Pairs Earrings and Studs,$17.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1156821001.html
+745,Felted Wool Hat,$32.99 ,,,,H&M,ladies_accessories_hats,2,New Arrival,https://www2.hm.com/en_us/productpage.1118741001.html
+746,2-pack Push-up Bras,$27.99 ,,,,H&M,ladies_lingerie_bras_multipack,1,New Arrival,https://www2.hm.com/en_us/productpage.1145263001.html
+747,H&M+ Oversized Bomber Jacket,$49.99 ,,,,H&M,ladies_divided_jacketscoats,1,New Arrival,https://www2.hm.com/en_us/productpage.1130407001.html
+748,Soft-cup Bra,$12.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1137720001.html
+749,Shoulder Bag,$24.99 ,,,,H&M,ladies_accessories_bags,1,New Arrival,https://www2.hm.com/en_us/productpage.1118667004.html
+750,Cotton Jersey Top,$5.99 ,,,,H&M,ladies_basics,4,New Arrival,https://www2.hm.com/en_us/productpage.1131079004.html
+751,Crinkled Slip Dress with Tie Detail,$34.99 ,,,,H&M,ladies_dresses_camidresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1131053001.html
+752,H&M+ Wide-leg Twill Pants,$19.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1134756001.html
+753,Satin Pajamas,$32.99 ,,,,H&M,ladies_nightwear_pyjamas,1,New Arrival,https://www2.hm.com/en_us/productpage.1150099002.html
+754,Asymmetric Earrings,$17.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1156798001.html
+755,Padded Triangle Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1055055007.html
+756,Button-front Crêped Dress,$39.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1135028001.html
+757,High Leg Swimsuit,$32.99 ,,,,H&M,ladies_swimwear_swimsuits,2,New Arrival,https://www2.hm.com/en_us/productpage.1116945002.html
+758,Pendant Necklace,$5.99 ,,,,H&M,ladies_accessories_jewellery_necklaces,1,New Arrival,https://www2.hm.com/en_us/productpage.1032948016.html
+759,Quilted Handbag,$24.99 ,,,,H&M,ladies_accessories_bags,2,New Arrival,https://www2.hm.com/en_us/productpage.1133073001.html
+760,Knit Scarf,$14.99 ,,,,H&M,ladies_divided_accessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1115245001.html
+761,Bodycon Dress,$27.99 ,,,,H&M,ladies_dresses_mididresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1140309001.html
+762,2-pack Angular Hair Claws,$5.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1056881001.html
+763,Non-padded underwired lace bra,$29.99 ,,,,H&M,ladies_lingerie_bras,1,New Arrival,https://www2.hm.com/en_us/productpage.1118181001.html
+764,3-pack Stretch Satin Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,2,New Arrival,https://www2.hm.com/en_us/productpage.1121525003.html
+765,2-pack jersey headbands,$6.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1163572001.html
+766,2-pack Non-padded Cotton Bra Tops,$17.99 ,,,,H&M,ladies_lingerie_bras_multipack,6,New Arrival,https://www2.hm.com/en_us/productpage.1084218006.html
+767,Flared Jersey Skirt,$17.99 ,,,,H&M,Ladies_skirts_highwaisted,1,New Arrival,https://www2.hm.com/en_us/productpage.1094978007.html
+768,Padded Lace Bustier,$34.99 ,,,,H&M,ladies_lingerie_bras_padded,3,New Arrival,https://www2.hm.com/en_us/productpage.1131400002.html
+769,6 Pairs Hoop Earrings,$14.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1154183001.html
+770,Sleeveless dress,$24.99 ,,,,H&M,ladies_divided_conscious,2,New Arrival,https://www2.hm.com/en_us/productpage.1140069001.html
+771,Non-padded Underwire Lace Bra,$19.99 ,,,,H&M,ladies_lingerie_bras,3,New Arrival,https://www2.hm.com/en_us/productpage.1094531014.html
+772,Mom Loose-fit High Ankle Jeans,$30.99 ,,,,H&M,ladies_divided_jeans_loose,4,New Arrival,https://www2.hm.com/en_us/productpage.1068429008.html
+773,Ribbed Bandeau Dress,$9.99 ,,,,H&M,ladies_basics_dressesskirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1128502004.html
+774,Beauty Headband,$4.99 ,,,,H&M,ladies_beauty_hair,1,New Arrival,https://www2.hm.com/en_us/productpage.1001775006.html
+775,High Tops,$44.99 ,,,,H&M,ladies_shoes_sneakers,1,New Arrival,https://www2.hm.com/en_us/productpage.1115160001.html
+776,Embroidered Baseball Jacket,$64.99 ,,,,H&M,ladies_divided_jacketscoats,2,New Arrival,https://www2.hm.com/en_us/productpage.1128229002.html
+777,2-pack Satin Thong Briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,1,New Arrival,https://www2.hm.com/en_us/productpage.1101294001.html
+778,Cotton T-shirt,$5.99 ,,,,H&M,ladies_tops_shortsleeve,1,New Arrival,https://www2.hm.com/en_us/productpage.1108022012.html
+779,Skirt,$24.99 ,,,,H&M,ladies_skirts_mini,2,New Arrival,https://www2.hm.com/en_us/productpage.1129453002.html
+780,Large Plastic Hair Claw,$9.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1048080001.html
+781,Heart-shaped Hairbrush,$5.99 ,,,,H&M,beauty_haircare_hairbrushescombs,1,New Arrival,https://www2.hm.com/en_us/productpage.1132431001.html
+782,2-pack soft jersey bras,$24.99 ,,,,H&M,ladies_lingerie_bras_multipack,1,New Arrival,https://www2.hm.com/en_us/productpage.1134453001.html
+783,DryMove™ Sports Crop Top,$12.99 ,,,,H&M,sportswear_women_clothing_tops_tshirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1123621005.html
+784,Printed Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,10,New Arrival,https://www2.hm.com/en_us/productpage.1109121009.html
+785,Collared Ribbed Top,$14.99 ,,,,H&M,ladies_tops_shortsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1054147008.html
+786,Cable-knit jumper,$34.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1120560002.html
+787,2-pack Bike Shorts,$12.99 ,,,,H&M,Ladies_shorts_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1139602002.html
+788,T-shirt,$12.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1131773003.html
+789,Bath Confetti,$4.99 ,,,,H&M,beauty_bodybath_bathshower,1,New Arrival,https://www2.hm.com/en_us/productpage.1111257001.html
+790,Chiffon dressing gown,$27.99 ,,,,H&M,ladies_nightwear_dressing_gowns,1,New Arrival,https://www2.hm.com/en_us/productpage.1140066001.html
+791,Denim Overall Shorts,$39.99 ,,,,H&M,ladies_divided_conscious,2,New Arrival,https://www2.hm.com/en_us/productpage.1136730001.html
+792,DryMove™ Seamless Sports Top,$29.99 ,,,,H&M,ladies_sport_tops_longsleeve,4,New Arrival,https://www2.hm.com/en_us/productpage.1120600006.html
+793,Puff-sleeved Crêped Dress,$24.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1140071001.html
+794,Oversized Printed T-shirt,$24.99 ,,,,H&M,ladies_tops_printed_tshirts,1,New Arrival,https://www2.hm.com/en_us/productpage.1140021007.html
+795,Lacing-detail Poplin Blouse,$29.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1134789002.html
+796,Rhinestone Hoop Earrings,$14.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1129944001.html
+797,Seamless Jersey Pajamas,$34.99 ,,,,H&M,ladies_nightwear_pyjamas,1,New Arrival,https://www2.hm.com/en_us/productpage.1137051002.html
+798,Boxy-style shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1147165004.html
+799,7-pack Jersey Hipster Briefs,$34.99 ,,,,H&M,ladies_lingerie_briefsknickers_hipster,1,New Arrival,https://www2.hm.com/en_us/productpage.1134436001.html
+800,Cable-knit Dog Sweater,$17.99 ,,,,H&M,ladies_accessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1125221001.html
+801,Oversized Printed Sweatshirt Dress,$34.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1109093003.html
+802,6 Pairs Hoop Earrings,$12.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1155755001.html
+803,H&M+ Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1143743001.html
+804,3-pack Lace Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,5,New Arrival,https://www2.hm.com/en_us/productpage.1110583006.html
+805,3-pack Cotton Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1121600005.html
+806,Denim Overall Shorts,$39.99 ,,,,H&M,ladies_divided_conscious,2,New Arrival,https://www2.hm.com/en_us/productpage.1136730003.html
+807,Padded Lace Bustier,$34.99 ,,,,H&M,ladies_lingerie_bras_padded,3,New Arrival,https://www2.hm.com/en_us/productpage.1131400003.html
+808,5-pack Lace Thong Briefs,$19.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,10,New Arrival,https://www2.hm.com/en_us/productpage.1075646012.html
+809,Laptop Case,$17.99 ,,,,H&M,ladies_accessories_bags_laptopbags,2,New Arrival,https://www2.hm.com/en_us/productpage.1104991005.html
+810,Collared Cable-knit Sweater,$29.99 ,,,,H&M,ladies_knitwear,5,New Arrival,https://www2.hm.com/en_us/productpage.1111775004.html
+811,H&M+ Hooded Sweatshirt Jacket,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148177001.html
+812,High Waist Sports Leggings,$24.99 ,,,,H&M,sportswear_women_clothing_leggingstights_highwaist,6,New Arrival,https://www2.hm.com/en_us/productpage.1010082027.html
+813,2-pack Powder Puffs,$6.99 ,,,,H&M,beauty_makeup_makeupbrusherstools_spongesapplicators,1,New Arrival,https://www2.hm.com/en_us/productpage.1132686001.html
+814,Earrings,$5.99 ,,,,H&M,ladies_accessories_jewellery_earrings,2,New Arrival,https://www2.hm.com/en_us/productpage.1061268009.html
+815,Skirt,$24.99 ,,,,H&M,ladies_skirts_mini,2,New Arrival,https://www2.hm.com/en_us/productpage.1129453005.html
+816,Seamless jersey push-up bra,$29.99 ,,,,H&M,ladies_lingerie_bras_padded,2,New Arrival,https://www2.hm.com/en_us/productpage.1127466001.html
+817,H&M+ Low Ankle Jeggings,$24.99 ,,,,H&M,ladies_plus_bottoms,1,New Arrival,https://www2.hm.com/en_us/productpage.1141117002.html
+818,Hole-knit Cardigan,$25.99 ,,,,H&M,ladies_knitwear,3,New Arrival,https://www2.hm.com/en_us/productpage.1120575004.html
+819,Tie Bikini Bottoms,$12.99 ,,,,H&M,ladies_swimwear_bikinisets_bottoms,3,New Arrival,https://www2.hm.com/en_us/productpage.1115592004.html
+820,H&M+ Oversized Printed Hooded Jacket,$34.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1114090003.html
+821,3-pack Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,2,New Arrival,https://www2.hm.com/en_us/productpage.1126349002.html
+822,5-pack Lace Thong Briefs,$19.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,10,New Arrival,https://www2.hm.com/en_us/productpage.1075646011.html
+823,Ribbed Bandeau Dress,$9.99 ,,,,H&M,ladies_basics_dressesskirts,3,New Arrival,https://www2.hm.com/en_us/productpage.1128502007.html
+824,Off-the-shoulder cable-knit top,$24.99 ,,,,H&M,ladies_cardigansjumpers_jumpers,1,New Arrival,https://www2.hm.com/en_us/productpage.1146573001.html
+825,Water-repellent Sports Cap,$14.99 ,,,,H&M,ladies_accessories_hats_caps,1,New Arrival,https://www2.hm.com/en_us/productpage.1118402001.html
+826,Smocked cropped top,$24.99 ,,,,H&M,ladies_tops_croppedtops,1,New Arrival,https://www2.hm.com/en_us/productpage.1139083001.html
+827,Long-sleeved Jersey Top,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1159044001.html
+828,H&M+ Open-backed knitted dress,$34.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1143773001.html
+829,H&M+ Wide-leg Twill Pants,$19.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1134756002.html
+830,Crinkled Jersey Dress,$24.99 ,,,,H&M,ladies_dresses_shortdresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1146226002.html
+831,Pajama Camisole Top and Shorts,$19.99 ,,,,H&M,ladies_nightwear_pyjamas,2,New Arrival,https://www2.hm.com/en_us/productpage.1146464003.html
+832,Printed Canvas Shopper,$14.99 ,,,,H&M,ladies_accessories_bags_shoppertotes,1,New Arrival,https://www2.hm.com/en_us/productpage.1140729001.html
+833,Collared Ribbed Top,$14.99 ,,,,H&M,ladies_tops_shortsleeve,3,New Arrival,https://www2.hm.com/en_us/productpage.1054147009.html
+834,Quilted Jacket,$59.99 ,,,,H&M,ladies_jacketscoats_jackets,2,New Arrival,https://www2.hm.com/en_us/productpage.1136642001.html
+835,H&M+ True To You Skinny High Jeans,$39.99 ,,,,H&M,ladies_jeans_skinny,5,New Arrival,https://www2.hm.com/en_us/productpage.1044626015.html
+836,3-pack Hair Claws,$12.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1064036008.html
+837,H&M+ 2-pack Padded Bras,$34.99 ,,,,H&M,ladies_lingerie_bras_multipack,2,New Arrival,https://www2.hm.com/en_us/productpage.0947208007.html
+838,Long-sleeved Printed Shirt,$25.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1127922002.html
+839,Lace Push-up Bra,$24.99 ,,,,H&M,ladies_lingerie_bras_padded,5,New Arrival,https://www2.hm.com/en_us/productpage.1110715004.html
+840,Draped Jersey Dress,$17.99 ,,,,H&M,ladies_dresses_party,3,New Arrival,https://www2.hm.com/en_us/productpage.1077680005.html
+841,Crêped Pull-on Pants,$29.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1143032001.html
+842,Ribbed Crop Top,$9.99 ,,,,H&M,ladies_basics,2,New Arrival,https://www2.hm.com/en_us/productpage.1141486003.html
+843,8 Pairs Hoop Earrings,$17.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1141050001.html
+844,H&M+ Ultra High Ankle Jeggings,$24.99 ,,,,H&M,ladies_plus_bottoms,7,New Arrival,https://www2.hm.com/en_us/productpage.0983947027.html
+845,Hoop Earrings,$8.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1079870003.html
+846,20-pack Hair Elastics,$3.99 ,,,,H&M,ladies_accessories_hairaccessories,3,New Arrival,https://www2.hm.com/en_us/productpage.1155657001.html
+847,Felted Wool Hat,$32.99 ,,,,H&M,ladies_accessories_hats,2,New Arrival,https://www2.hm.com/en_us/productpage.1118741002.html
+848,3-pack Stretch Satin Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,2,New Arrival,https://www2.hm.com/en_us/productpage.1121525002.html
+849,5-pack Jersey Hipster Briefs,$24.99 ,,,,H&M,ladies_lingerie,1,New Arrival,https://www2.hm.com/en_us/productpage.1086277006.html
+850,2-pack Thong Briefs,$12.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,2,New Arrival,https://www2.hm.com/en_us/productpage.1137736001.html
+851,Satin Scarf,$12.99 ,,,,H&M,ladies_accessories_scarves,3,New Arrival,https://www2.hm.com/en_us/productpage.1082047007.html
+852,4 Pairs Hoop Earrings,$12.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1156271001.html
+853,Outdoor Jacket,$34.99 ,,,,H&M,ladies_jacketscoats_jackets,1,New Arrival,https://www2.hm.com/en_us/productpage.1114857004.html
+854,Wooden Jewelry Box,$44.99 ,,,,H&M,home_decorations_decoraccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.0981110004.html
+855,3-pack Cotton Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1121600001.html
+856,Poplin Shirt,$24.99 ,,,,H&M,ladies_shirtsblouses_shirts,2,New Arrival,https://www2.hm.com/en_us/productpage.1077087001.html
+857,Crinkled Jersey Dress,$24.99 ,,,,H&M,ladies_dresses_shortdresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1146226004.html
+858,Eyeshadow Palette,$9.99 ,,,,H&M,beauty_makeup_eyes_eyeshadow,1,New Arrival,https://www2.hm.com/en_us/productpage.1113461001.html
+859,DryMove™ Running Shirt,$29.99 ,,,,H&M,sportswear_women_clothing_tops_longsleeve,2,New Arrival,https://www2.hm.com/en_us/productpage.1134555001.html
+860,5-pack Thong Briefs,$19.99 ,,,,H&M,ladies_lingerie,2,New Arrival,https://www2.hm.com/en_us/productpage.1100114003.html
+861,2-pack Crop Tube Tops,$9.99 ,,,,H&M,ladies_basics_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1139614002.html
+862,Printed Top,$9.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148940002.html
+863,Polo-neck dog jumper,$19.99 ,,,,H&M,ladies_dog,1,New Arrival,https://www2.hm.com/en_us/productpage.1125222001.html
+864,H&M+ Sweatshirt,$24.99 ,,,,H&M,ladies_plus,4,New Arrival,https://www2.hm.com/en_us/productpage.1107424004.html
+865,Cable-knit mini skirt,$24.99 ,,,,H&M,ladies_skirts_mini,1,New Arrival,https://www2.hm.com/en_us/productpage.1146574001.html
+866,Textured Hoop Earrings,$5.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1138680001.html
+867,Ribbed Top with Collar,$17.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1121052004.html
+868,Crochet-look beret,$24.99 ,,,,H&M,ladies_accessories_hats_beanies,1,New Arrival,https://www2.hm.com/en_us/productpage.1118735001.html
+869,20-pack Hair Elastics,$3.99 ,,,,H&M,ladies_accessories_hairaccessories,3,New Arrival,https://www2.hm.com/en_us/productpage.1155657003.html
+870,H&M+ Hooded Sweatshirt Jacket,$24.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1148177002.html
+871,Hoop Earrings,$8.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1156293001.html
+872,Boxy-style shirt,$17.99 ,,,,H&M,ladies_divided_new_clothes,4,New Arrival,https://www2.hm.com/en_us/productpage.1147165002.html
+873,Printed Crop Top,$6.99 ,,,,H&M,ladies_divided_new_clothes,1,New Arrival,https://www2.hm.com/en_us/productpage.1123007006.html
+874,Non-padded Lace Bralette,$17.99 ,,,,H&M,ladies_lingerie_bras,1,New Arrival,https://www2.hm.com/en_us/productpage.1128978001.html
+875,Skirt,$24.99 ,,,,H&M,ladies_skirts_mini,2,New Arrival,https://www2.hm.com/en_us/productpage.1129453001.html
+876,Printed Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,10,New Arrival,https://www2.hm.com/en_us/productpage.1109121006.html
+877,Printed Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,10,New Arrival,https://www2.hm.com/en_us/productpage.1109121007.html
+878,Puff-sleeved Crêped Dress,$24.99 ,,,,H&M,ladies_divided_dresses,2,New Arrival,https://www2.hm.com/en_us/productpage.1140071002.html
+879,Short necklace,$6.99 ,,,,H&M,ladies_accessories_jewellery_necklaces,2,New Arrival,https://www2.hm.com/en_us/productpage.1156368001.html
+880,2-pack Scrunchies,$5.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1129919006.html
+881,Nail Stickers,$4.99 ,,,,H&M,beauty_nails_fakenailsaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1124291001.html
+882,3-pack Cotton Thong Briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1104759008.html
+883,2-pack Non-padded Jersey Bra Tops,$24.99 ,,,,H&M,ladies_lingerie_bras_multipack,4,New Arrival,https://www2.hm.com/en_us/productpage.1093760005.html
+884,8-pack Hair Clips,$6.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1154447001.html
+885,Small Shoulder Bag,$19.99 ,,,,H&M,ladies_divided_accessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1120878008.html
+886,5-pack Lace Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,1,New Arrival,https://www2.hm.com/en_us/productpage.1127827001.html
+887,Bath Fizzer with Rose Petals,$4.99 ,,,,H&M,beauty_bodybath,1,New Arrival,https://www2.hm.com/en_us/productpage.1111254001.html
+888,Padded Underwire Lace Bra,$27.99 ,,,,H&M,ladies_lingerie_bras_padded,3,New Arrival,https://www2.hm.com/en_us/productpage.1030152007.html
+889,10-pack Spiral Hair Elastics,$5.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1071582007.html
+890,ShapeMove™ Sports Leggings,$39.99 ,,,,H&M,GLMove_06_Tall,1,New Arrival,https://www2.hm.com/en_us/productpage.1110650001.html
+891,2-pack Bike Shorts,$12.99 ,,,,H&M,Ladies_shorts_highwaisted,3,New Arrival,https://www2.hm.com/en_us/productpage.1139602005.html
+892,Double-strand Necklace,$9.99 ,,,,H&M,ladies_accessories_jewellery_necklaces,4,New Arrival,https://www2.hm.com/en_us/productpage.1082325007.html
+893,High Leg Swimsuit,$34.99 ,,,,H&M,ladies_swimwear_swimsuits,1,New Arrival,https://www2.hm.com/en_us/productpage.1131501001.html
+894,Beaded Necklace,$6.99 ,,,,H&M,ladies_accessories_jewellery_necklaces,1,New Arrival,https://www2.hm.com/en_us/productpage.1156369001.html
+895,Crinkled Jersey Dress,$24.99 ,,,,H&M,ladies_dresses_shortdresses,3,New Arrival,https://www2.hm.com/en_us/productpage.1146226003.html
+896,H&M+ Collared Cable-knit Sweater,$29.99 ,,,,H&M,ladies_knitwear,2,New Arrival,https://www2.hm.com/en_us/productpage.1134894001.html
+897,Satin Hairband,$6.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.0957503004.html
+898,Padded Jersey Bra,$17.99 ,,,,H&M,ladies_lingerie_bras,2,New Arrival,https://www2.hm.com/en_us/productpage.1121084002.html
+899,5-pack Rings,$5.99 ,,,,H&M,ladies_accessories_jewellery_rings,2,New Arrival,https://www2.hm.com/en_us/productpage.1113650006.html
+900,6-pack Rings,$9.99 ,,,,H&M,ladies_accessories_jewellery_rings,2,New Arrival,https://www2.hm.com/en_us/productpage.1087440003.html
+901,3-pack Cotton Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,3,New Arrival,https://www2.hm.com/en_us/productpage.1121600002.html
+902,Necklace,$5.99 ,,,,H&M,ladies_accessories_jewellery_necklaces,2,New Arrival,https://www2.hm.com/en_us/productpage.1156014001.html
+903,Lip Gloss Duo,$4.99 ,,,,H&M,beauty_makeup_lips_lipgloss,2,New Arrival,https://www2.hm.com/en_us/productpage.1111250002.html
+904,Stone-decorated Earrings,$8.99 ,,,,H&M,ladies_accessories_jewellery_earrings,1,New Arrival,https://www2.hm.com/en_us/productpage.1156735001.html
+905,Double-ended Blush and Powder Brush,$9.99 ,,,,H&M,beauty_makeup_makeupbrusherstools_makeupbrushes,1,New Arrival,https://www2.hm.com/en_us/productpage.1092283001.html
+906,3-pack Jersey Thong Briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,1,New Arrival,https://www2.hm.com/en_us/productpage.1128887001.html
+907,6-pack Ear Cuffs,$8.99 ,,,,H&M,ladies_accessories_jewellery_earrings,0,New Arrival,https://www2.hm.com/en_us/productpage.0933406007.html
+908,3-pack Thong Briefs,$17.99 ,,,,H&M,ladies_lingerie_briefsknickers_multipack,2,New Arrival,https://www2.hm.com/en_us/productpage.1126349001.html
+909,H&M+ 5-pack Briefs,$12.99 ,,,,H&M,ladies_lingerie_briefsknickers_bikinibriefs,6,New Arrival,https://www2.hm.com/en_us/productpage.1085403006.html
+910,H&M+ Mom Ultra High Ankle Jeans,$34.99 ,,,,H&M,ladies_divided_jeans_loose,4,New Arrival,https://www2.hm.com/en_us/productpage.1135399004.html
+911,Padded Triangle Bikini Top,$17.99 ,,,,H&M,ladies_swimwear_bikinisets_tops,3,New Arrival,https://www2.hm.com/en_us/productpage.1055055005.html
+912,Printed Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,10,New Arrival,https://www2.hm.com/en_us/productpage.1109121010.html
+913,2-pack Scrunchies,$5.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1129919005.html
+914,DryMove™ Running sleeves,$24.99 ,,,,H&M,men_sport_sportaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1149795001.html
+915,10-pack Spiral Hair Elastics,$5.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1071582004.html
+916,H&M+ Single-breasted Jacket,$34.99 ,,,,H&M,ladies_divided_conscious,1,New Arrival,https://www2.hm.com/en_us/productpage.1130410001.html
+917,3-pack Brazilian Briefs,$14.99 ,,,,H&M,ladies_lingerie_briefsknickers_brazilian,4,New Arrival,https://www2.hm.com/en_us/productpage.0803070069.html
+918,Printed Crop Top,$12.99 ,,,,H&M,ladies_tops_croppedtops,10,New Arrival,https://www2.hm.com/en_us/productpage.1109121005.html
+919,Seamless jersey push-up bra,$29.99 ,,,,H&M,ladies_lingerie_bras_padded,2,New Arrival,https://www2.hm.com/en_us/productpage.1127466002.html
+920,H&M+ Plaid Pajamas,$39.99 ,,,,H&M,ladies_nightwear_pyjamas,1,New Arrival,https://www2.hm.com/en_us/productpage.1018972002.html
+921,H&M+ DryMove™ Warm Running Tights,$39.99 ,,,,H&M,sportswear_women_clothing_leggingstights_highwaist,2,New Arrival,https://www2.hm.com/en_us/productpage.1107205001.html
+922,2-pack Hair Clips,$9.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1144385001.html
+923,Embroidered Knit Dress,$29.99 ,,,,H&M,ladies_divided_dresses,1,New Arrival,https://www2.hm.com/en_us/productpage.1140750001.html
+924,4-pack Scrunchies,$5.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1159610001.html
+925,Embroidered twill bucket hat,$12.99 ,,,,H&M,ladies_accessories_hats_buckethats,1,New Arrival,https://www2.hm.com/en_us/productpage.1141023001.html
+926,3-pack Heart-shaped Bath Fizzers,$6.99 ,,,,H&M,beauty_bodybath,1,New Arrival,https://www2.hm.com/en_us/productpage.1111252001.html
+927,Embroidered Rib-knit Headband,$9.99 ,,,,H&M,ladies_accessories_hats_beanies,2,New Arrival,https://www2.hm.com/en_us/productpage.1116873002.html
+928,2-pack Makeup Sponges,$5.99 ,,,,H&M,beauty_makeup_face,2,New Arrival,https://www2.hm.com/en_us/productpage.1057412005.html
+929,6-pack rings,$9.99 ,,,,H&M,ladies_accessories_jewellery_rings,1,New Arrival,https://www2.hm.com/en_us/productpage.1139588001.html
+930,Face Mask Duo,$5.99 ,,,,H&M,beauty_skincare_masks,1,New Arrival,https://www2.hm.com/en_us/productpage.1111253001.html
+931,H&M+ Oversized Hooded Jacket,$29.99 ,,,,H&M,ladies_divided_hoodiessweatshirts,4,New Arrival,https://www2.hm.com/en_us/productpage.1143743004.html
+932,Earrings and Ear Cuffs,$14.99 ,,,,H&M,ladies_accessories_jewellery_earrings,4,New Arrival,https://www2.hm.com/en_us/productpage.0984033008.html
+933,Angled Foundation Brush,$9.99 ,,,,H&M,ladies_beauty_brushestools_makeupbrushes,1,New Arrival,https://www2.hm.com/en_us/productpage.1091424001.html
+934,Lip Gloss,$3.49 ,,,,H&M,ladies_beauty_lips_lipgloss,6,New Arrival,https://www2.hm.com/en_us/productpage.0995050016.html
+935,16-pack Hair Elastics,$3.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1152920003.html
+936,DryMove™ Running sleeves,$24.99 ,,,,H&M,men_sport_sportaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1149795002.html
+937,3-pack Hair Claws,$12.99 ,,,,H&M,ladies_accessories_hairaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1145287001.html
+938,Bubble Bath and Bath Fizzers,$9.99 ,,,,H&M,beauty_bodybath,1,New Arrival,https://www2.hm.com/en_us/productpage.1111256001.html
+939,Printed iPhone case,$8.99 ,,,,H&M,ladies_accessories_mobileaccessories,1,New Arrival,https://www2.hm.com/en_us/productpage.1140414001.html
+940,10-pack Hair Elastics,$3.99 ,,,,H&M,ladies_accessories_hairaccessories,2,New Arrival,https://www2.hm.com/en_us/productpage.1148181003.html
+941,Lip Gloss,$3.49 ,,,,H&M,ladies_beauty_lips_lipgloss,6,New Arrival,https://www2.hm.com/en_us/productpage.0995050020.html
+942,Earrings and Ear Cuffs,$14.99 ,,,,H&M,ladies_accessories_jewellery_earrings,4,New Arrival,https://www2.hm.com/en_us/productpage.0984033007.html
+943,Small Shoulder Bag,$17.99 ,,,,H&M,ladies_accessories_bags_shoulderbags,4,New Arrival,https://www2.hm.com/en_us/productpage.1037936022.html
+944,H&M+ DryMove™ Warm Running Tights,$39.99 ,,,,H&M,sportswear_women_clothing_leggingstights_highwaist,2,New Arrival,https://www2.hm.com/en_us/productpage.1107205002.html
+945,DryMove™ Half-zip Sports Top,$34.99 ,,,,H&M,GLMove_s06_Petite,1,New Arrival,https://www2.hm.com/en_us/productpage.1118928001.html
+946,Printed Canvas Tote Bag,$12.99 ,,,,H&M,ladies_accessories_bags_shoppertotes,1,New Arrival,https://www2.hm.com/en_us/productpage.1140428004.html
+947,H&M+ Padded Underwire Lace Bra,$29.99 ,,,,H&M,ladies_plus_lingerietights,2,New Arrival,https://www2.hm.com/en_us/productpage.0639965012.html
+948,H&M+ Padded Underwire Lace Bra,$29.99 ,,,,H&M,ladies_plus_lingerietights,2,New Arrival,https://www2.hm.com/en_us/productpage.0639965013.html
+949,Cropped vest top,$6.99 ,,,,H&M,ladies_divided_new_clothes,2,New Arrival,https://www2.hm.com/en_us/productpage.1151830001.html
